@@ -2,8 +2,10 @@
 Battletech Megamod for C:DDA.
 
 # Things to Add
-
-# Power Armor Weaponry
+``Battle Armor``
+``Battle Armor Weaponry``
+``Infantry Equipment``
+# Battle Armor Weaponry
 ```Advanced SRM
 Advanced SRM 1
 Advanced SRM 2
