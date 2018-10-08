@@ -2,6 +2,8 @@
 Battletech Megamod for C:DDA.
 
 # Things to Add
+
+# Power Armor Weaponry
 ```Advanced SRM
 Advanced SRM 1
 Advanced SRM 2
@@ -91,3 +93,7 @@ T
 Tsunami Heavy Gauss Rifle (Battle Armor)
 
 ```
+# Infantry Weaponry
+
+```TBA```
+
