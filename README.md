@@ -49,66 +49,6 @@ Battletech Megamod for C:DDA.
 | Battle Armor | :x:|
 | Battle Armor | :x:|
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Battle Armor Weaponry
 | Type | Status |
 | ---- | ------ |
