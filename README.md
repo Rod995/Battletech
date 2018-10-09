@@ -5,49 +5,37 @@ Battletech Megamod for C:DDA.
 
 | Item | Status |
 | ------ | ------ |
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
-| Battle Armor | :x:|
+| Achileus | :x: |
+| Aerie | :x: |
+| Afreet | :x: |
+| Amazon | :x: |
+| Angerona | :x: |
+| Asura | :x: |
+| Ironhold | :x: |
+| Black Wolf | :x: |
+| Buraq | :x: |
+| Cavalier | :x: |
+| Centaur | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+
 
 ### Battle Armor Weaponry
 | Type | Status |
