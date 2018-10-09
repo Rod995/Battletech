@@ -5,46 +5,130 @@ Battletech Megamod for C:DDA.
 
 | Item | Status |
 | ------ | ------ |
-| Battle Armor | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Battle Armor | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Battle Armor | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Battle Armor | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Battle Armor | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Battle Armor | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Battle Armor | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Battle Armor | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Battle Armor | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Battle Armor | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Battle Armor | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Battle Armor | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Battle Armor | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Battle Armor | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Battle Armor | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Battle Armor | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Battle Armor | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Battle Armor | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Battle Armor | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Battle Armor | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Battle Armor | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Battle Armor | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Battle Armor | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Battle Armor | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Battle Armor | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Battle Armor | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Battle Armor | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Battle Armor | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+| Battle Armor | :x:|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Battle Armor Weaponry
-| Weaponry | Status |
+| Type | Status |
+| ---- | ------ |
+| Missiles | :x: |
+| Ballistics | :x: |
+| Lasers | :x: |
+| Misc | :x: |
+
+| Missiles | Status |
 | -------- | ------ |
-| Advanced SRM | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Advanced SRM 1 | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Advanced SRM 2 | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Advanced SRM 3 | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Advanced SRM 4 | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Advanced SRM 5 | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Advanced SRM 6 | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
-| Anti-Personnel Gauss Rifle | ![Not Done](https://cdn.discordapp.com/attachments/471431447501078529/499293633120567307/c9875n3vfM69wzre0p2vw4Prqe62dXAsGiKaVhDznJ0p32sfHqk8xkIhK7c7DlmLf7arxBG7ZOBvhaT96AAAAAElFTkSuQmCC.png)|
+| Advanced SRM | :x: |
+| Advanced SRM 1 | :x: |
+| Advanced SRM 2 | :x: |
+| Advanced SRM 3 | :x: |
+| Advanced SRM 4 | :x: |
+| Advanced SRM 5 | :x: |
+| Advanced SRM 6 | :x: |
+
+
+| Anti-Personnel Gauss Rifle | :x: |
 
 B
 Battle Armor Taser
