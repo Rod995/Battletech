@@ -66,59 +66,71 @@ Battletech Megamod for C:DDA.
 | Advanced SRM 4 | :x: |
 | Advanced SRM 5 | :x: |
 | Advanced SRM 6 | :x: |
+| Compact Narc Launcher | :x: |
+| LRM-1 | :x: |
+| LRM-2 | :x: |
+| LRM-3 | :x: |
+| LRM-4 | :x: |
+| LRM-5 | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
 
-
+| Ballistics | Status |
+| ---------- | ------ |
 | Anti-Personnel Gauss Rifle | :x: |
+| Grand Mauler Gauss Cannon | :x: |
+| David Light Gauss Rifle  | :x: |
+| Heavy Machine Gun | :x: |
+| Light Machine Gun | :x: |
+| Machine Gun | :x: |
+| Medium Recoilless Rifle | :x: |
+| Heavy Recoilless Rifle | :x: |
+| Light Recoilless Rifle | :x: |
+| Magshot Gauss Rifle | :x: |
+| Tsunami Heavy Gauss Rifle | :x: |
+| Light Mortar | :x: |
+| King David Light Gauss Rifle | :x: |
+| Heavy Mortar | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
 
-B
-Battle Armor Taser
+| Lasers | Status |
+| ---------- | ------ |
+| ER Micro Laser | :x: |
+| Extended Range Medium Laser | :x: |
+| Extended Range Small Laser | :x: |
+| Man-Portable Plasma Rifle | :x: |
+| Medium Laser | :x: |
+| Medium Pulse Laser | :x: |
+| Support PPC | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
 
-C
-Compact Narc Launcher
-
-D
-David Light Gauss Rifle (Battle Armor)
-
-E
-ER Micro Laser (Battle Armor)
-Extended Range Medium Laser (Battle Armor)
-Extended Range Small Laser (Battle Armor)
+| Misc | Status |
+| ---------- | ------ |
+| Battle Armor Taser | :x: |
+| Flamer | :x: |
+| Grenade Launcher | :x: |
+| Pop-Up Mine | :x: |
+|  | :x: |
+|  | :x: |
 
 F
-Firedrake Support Needler (Battle Armor)
-Flamer (Battle Armor)
+Firedrake Support Needler
 
-G
-Grand Mauler Gauss Cannon (Battle Armor)
-Grenade Launcher (Battle Armor)
-
-H
-Heavy Machine Gun (Battle Armor)
-Heavy Mortar (Battle Armor)
-Heavy Recoilless Rifle (Battle Armor)
-
-K
-King David Light Gauss Rifle (Battle Armor)
-
-L
-Light Machine Gun (Battle Armor)
-Light Mortar (Battle Armor)
-Light Recoilless Rifle (Battle Armor)
-LRM-1 (Battle Armor)
-LRM-2 (Battle Armor)
-LRM-3 (Battle Armor)
-LRM-4 (Battle Armor)
-LRM-5 (Battle Armor)
-
-M
-Machine Gun (Battle Armor)
-Magshot Gauss Rifle (Battle Armor)
-Man-Portable Plasma Rifle (Battle Armor)
-Medium Laser (Battle Armor)
-Medium Pulse Laser (Battle Armor)
-Medium Recoilless Rifle (Battle Armor)
 Micro Grenade Launcher
-Micro Pulse Laser (Battle Armor)
+Micro Pulse Laser
 MRM-1
 MRM-2
 MRM-3
@@ -126,7 +138,7 @@ MRM-4
 MRM-5
 
 P
-Pop-Up Mine
+
 
 R
 Rocket Launcher 1
@@ -136,18 +148,14 @@ Rocket Launcher 4
 Rocket Launcher 5
 
 S
-Small Laser (Battle Armor)
-Small Pulse Laser (Battle Armor)
-SRM-1 (Battle Armor)
-SRM-2 (Battle Armor)
-SRM-3 (Battle Armor)
-SRM-4 (Battle Armor)
-SRM-5 (Battle Armor)
-SRM-6 (Battle Armor)
-Support PPC (Battle Armor)
-
-T
-Tsunami Heavy Gauss Rifle (Battle Armor)
+Small Laser
+Small Pulse Laser
+SRM-1
+SRM-2
+SRM-3
+SRM-4
+SRM-5
+SRM-6
 
 
 ## Infantry
