@@ -198,6 +198,11 @@ SRM-4
 SRM-5
 SRM-6
 
+### Battle Armor Equipment
+
+| Equipment | Status |
+| --------- | ------ |
+
 
 ## Infantry
 
@@ -215,9 +220,11 @@ SRM-6
 
 ```TBA```
 
-## Lostech
+## Tech
 
 | Tech | Status |
 | ---- | ------ |
 | Helm Memory Core | :x: |
+| Fusion Engine | :x: |
+| Mechanical Jump Booster | :x: |
 
