@@ -188,7 +188,7 @@ Battletech Megamod for C:DDA.
 
 ## Infantry
 
-```TBA```
+| Weapon | Status |
 
 ### Infantry Weaponry
 
