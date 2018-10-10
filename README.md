@@ -140,8 +140,6 @@ Battletech Megamod for C:DDA.
 | Rocket Launcher 3 | :x: |
 | Rocket Launcher 4 | :x: |
 | Rocket Launcher 5 | :x: |
-|  | :x: |
-|  | :x: |
 
 | Ballistics | Status |
 | ---------- | ------ |
@@ -160,11 +158,6 @@ Battletech Megamod for C:DDA.
 | King David Light Gauss Rifle | :x: |
 | Heavy Mortar | :x: |
 | Firedrake Support Needler | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
 
 | Lasers | Status |
 | ---------- | ------ |
@@ -178,8 +171,6 @@ Battletech Megamod for C:DDA.
 | Micro Pulse Laser | :x: |
 | Small Laser | :x: |
 | Small Pulse Laser | :x: |
-|  | :x: |
-|  | :x: |
 
 | Misc | Status |
 | ---------- | ------ |
@@ -188,7 +179,6 @@ Battletech Megamod for C:DDA.
 | Grenade Launcher | :x: |
 | Pop-Up Mine | :x: |
 | Micro Grenade Launcher | :x: |
-|  | :x: |
 
 ### Battle Armor Equipment
 
