@@ -108,6 +108,17 @@ Battletech Megamod for C:DDA.
 | Advanced SRM 5 | :x: |
 | Advanced SRM 6 | :x: |
 | Compact Narc Launcher | :x: |
+| SRM-1 | :x: |
+| SRM-2 | :x: |
+| SRM-3 | :x: |
+| SRM-4 | :x: |
+| SRM-5 | :x: |
+| SRM-6 | :x: |
+| MRM-1 | :x: |
+| MRM-2 | :x: |
+| MRM-3 | :x: |
+| MRM-4 | :x: |
+| MRM-5 | :x: |
 | LRM-1 | :x: |
 | LRM-2 | :x: |
 | LRM-3 | :x: |
@@ -119,6 +130,11 @@ Battletech Megamod for C:DDA.
 |  | :x: |
 |  | :x: |
 |  | :x: |
+|  | :x: |
+
+
+
+
 
 | Ballistics | Status |
 | ---------- | ------ |
@@ -136,7 +152,7 @@ Battletech Megamod for C:DDA.
 | Light Mortar | :x: |
 | King David Light Gauss Rifle | :x: |
 | Heavy Mortar | :x: |
-|  | :x: |
+| Firedrake Support Needler | :x: |
 |  | :x: |
 |  | :x: |
 |  | :x: |
@@ -168,15 +184,11 @@ Battletech Megamod for C:DDA.
 |  | :x: |
 
 F
-Firedrake Support Needler
+
 
 Micro Grenade Launcher
 Micro Pulse Laser
-MRM-1
-MRM-2
-MRM-3
-MRM-4
-MRM-5
+
 
 P
 
@@ -191,12 +203,7 @@ Rocket Launcher 5
 S
 Small Laser
 Small Pulse Laser
-SRM-1
-SRM-2
-SRM-3
-SRM-4
-SRM-5
-SRM-6
+
 
 ### Battle Armor Equipment
 
