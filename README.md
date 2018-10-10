@@ -4,7 +4,7 @@ Battletech Megamod for C:DDA.
 ## Battle Armor
 
 | Item | Status |
-| ------ | ------ |
+| ---- | ------ |
 | Achileus | :x: |
 | Aerie | :x: |
 | Afreet | :x: |
@@ -16,28 +16,81 @@ Battletech Megamod for C:DDA.
 | Buraq | :x: |
 | Cavalier | :x: |
 | Centaur | :x: |
+| Clan Battle Armor (Rabids) | :x: |
+| Constable | :x: |
+| Corona | :x: |
+| Cuchulainn | :x: |
+| Fa Shih | :x: |
+| Fenrir | :x: |
+| Fenrir II | :x: |
+| Fusilier | :x: |
+| Gnome | :x: |
+| Golem | :x: |
+| Grenadier | :x: |
+| Grenadier II | :x: |
+| Hauberk | :x: |
+| Infiltrator | :x: |
+| Infiltrator Mk. II | :x: |
+| IS Standard | :x: |
+| Kage | :x: |
+| Kanazuchi | :x: |
+| Kishi | :x: |
+| Kobold | :x: |
+| Kopis | :x: |
+| Leonidas | :x: |
+| Longinus | :x: |
+| Marauder | :x: |
+| Nephilim | :x: |
+| Nighthawk | :x: |
+| Ogre | :x: |
+| Oni | :x: |
+| Phalanx | :x: |
+| Purifier Adaptive | :x: |
+| Quirinus | :x: |
+| Raiden | :x: |
+| Ravager | :x: |
+| Resgate | :x: |
+| Rogue Bear | :x: |
+| Rottweiler | :x: |
+| Salamander | :x: |
+| Sea Fox | :x: |
+| Shedu | :x: |
+| Shen Long | :x: |
+| Simian | :x: |
+| Sloth | :x: |
+| PAB-28 Sniper Suit | :x: |
+| Spectre | :x: |
 |  | :x: |
 |  | :x: |
 |  | :x: |
 |  | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
+
+
+### Gray Death Series
+
+| Armor | Status |
+| ----- | ------ |
+| GD Heavy | :x: |
+| GD Infiltrator Suit | :x: |
+| GD Scout | :x: |
+| GD Standard | :x: |
+| GD Strike | :x: |
+
+
+### Demon Series
+
+| Armor | Status |
+| ----- | ------ |
+| Djinn | :x: |
+| Asura | :x: |
+| Se'irim | :x: |
+| Tengu | :x: |
+| Nephilim | :x: |
+| Shedu | :x: |
 
 
 ### Battle Armor Weaponry
+
 | Type | Status |
 | ---- | ------ |
 | Missiles | :x: |
@@ -161,4 +214,10 @@ SRM-6
 ### Infantry Misc
 
 ```TBA```
+
+## Lostech
+
+| Tech | Status |
+| ---- | ------ |
+| Helm Memory Core | :x: |
 
