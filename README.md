@@ -64,7 +64,18 @@ Battletech Megamod for C:DDA.
 |  | :x: |
 |  | :x: |
 |  | :x: |
-
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
+|  | :x: |
 
 ### Gray Death Series
 
@@ -124,17 +135,13 @@ Battletech Megamod for C:DDA.
 | LRM-3 | :x: |
 | LRM-4 | :x: |
 | LRM-5 | :x: |
+| Rocket Launcher 1 | :x: |
+| Rocket Launcher 2 | :x: |
+| Rocket Launcher 3 | :x: |
+| Rocket Launcher 4 | :x: |
+| Rocket Launcher 5 | :x: |
 |  | :x: |
 |  | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
-
-
-
-
 
 | Ballistics | Status |
 | ---------- | ------ |
@@ -168,9 +175,9 @@ Battletech Megamod for C:DDA.
 | Medium Laser | :x: |
 | Medium Pulse Laser | :x: |
 | Support PPC | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
+| Micro Pulse Laser | :x: |
+| Small Laser | :x: |
+| Small Pulse Laser | :x: |
 |  | :x: |
 |  | :x: |
 
@@ -180,30 +187,8 @@ Battletech Megamod for C:DDA.
 | Flamer | :x: |
 | Grenade Launcher | :x: |
 | Pop-Up Mine | :x: |
+| Micro Grenade Launcher | :x: |
 |  | :x: |
-|  | :x: |
-
-F
-
-
-Micro Grenade Launcher
-Micro Pulse Laser
-
-
-P
-
-
-R
-Rocket Launcher 1
-Rocket Launcher 2
-Rocket Launcher 3
-Rocket Launcher 4
-Rocket Launcher 5
-
-S
-Small Laser
-Small Pulse Laser
-
 
 ### Battle Armor Equipment
 
