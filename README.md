@@ -198,6 +198,7 @@ Battletech Megamod for C:DDA.
 | Energy-Pistol | :x: |
 | Energy-Rifles | :x: |
 | Missile-Support | :x: |
+| Misc-Support | :x: |
 | Grenades | :x: |
 
 
