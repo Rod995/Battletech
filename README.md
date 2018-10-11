@@ -102,7 +102,7 @@ Battletech Megamod for C:DDA.
 
 ### Battle Armor Weaponry
 
-| Type | Status |
+| Weapon Group | Status |
 | ---- | ------ |
 | Missiles | :x: |
 | Ballistics | :x: |
@@ -188,7 +188,18 @@ Battletech Megamod for C:DDA.
 
 ## Infantry
 
-| Weapon | Status |
+| Weapon Group | Status |
+| ------------ | ------ |
+| Ballistics-Pistol | :x: |
+| Ballistics-Rifles | :x: |
+| Ballistics-Shotguns | :x: |
+| Ballistics-Support | :x: |
+| Ballistics-Machine Guns | :x: |
+| Energy-Pistol | :x: |
+| Energy-Rifles | :x: |
+| Missile-Support | :x: |
+| Grenades | :x: |
+
 
 ### Infantry Weaponry
 
