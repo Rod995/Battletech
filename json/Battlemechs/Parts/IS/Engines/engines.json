@@ -1,0 +1,22 @@
+[
+  {
+    "abstract": "fusion_engine",
+    "type": "vehicle_part",
+    "name": "Fusion Engine",
+    "item": "fusion_engine_standard",
+    "difficulty": 12,
+    "location": "engine_block",
+    "description": "The fusion engine is capable of powering 'Mechs, Aerospace Fighters, and other vehicles. Fusion engines function by harnessing the power of a fusion reaction, as occurs in the core of the Sun. A BattleMech's fusion engine can usually last for decades on a few kilograms of hydrogen. Unlike the research reactors of the real world, a BattleMech's fusion engine runs on 'light' hydrogen, protium, rather than hydrogen's heavier isotopes deuterium and tritium.",
+    "noise_factor": 2,
+    "m2c": 90,
+    "power": 1300,
+    "fuel_type": "h_cell",
+    "symbol": "H",
+    "color": "yellow",
+    "breaks_into" : [ { "item": "scrap", "count": [0,5] }, { "item": "h_cell", "count": [ 0,1 ] } ],
+    "broken_symbol": "!",
+    "durability": 100, 
+    "broken_color": "red",
+    "flags": [ "ENGINE", "TOOL_WRENCH", "E_HIGHER_SKILL", "E_HEATER", "DIFFICULTY_REMOVE", "E_ALTERNATOR", "INITIAL_PART", "OBSTACLE", "OPAQUE", "PERPETUAL" ]
+  }
+]
