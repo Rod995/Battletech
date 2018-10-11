@@ -1,0 +1,42 @@
+[
+  {
+    "id": "if_block",
+    "type": "AMMO",
+    "name": "Incendiary Fletchette Block",
+    "description": "Incendiary shotgun rounds, flechette type. These polymer ammunition blocks encapsulate hypergolic chemicals which ignite upon air contact. A single ten-shot burst of these white-hot needles can cover a broad area, allowing the 'Firedrake' to saturate a full squad of enemy soldiers and ignite the surrounding terrain in a blaze in less than five seconds, though it has no effect on armored units such as combat vehicles or battle armor as the flechettes simply bounce off.",
+    "weight": 3000,
+    "volume": 2,
+    "price": 500000,
+    "material": [ "polymer", "powder" ],
+    "symbol": "=",
+    "color": "grey",
+    "count": 30,
+    "stack_size": 30,
+    "ammo_type": "needler",
+    "range": 6,
+    "damage": 60,
+    "recoil": 20,
+    "effects": [ "COOKOFF", "SHOT", "NEVER_MISFIRES", "INCENDIARY", "NAPALM", "CUSTOM_EXPLOSION" ]
+  },
+  {
+    "id": "hf_block",
+    "type": "AMMO",
+    "name": "Heavy Fletchette Block",
+    "description": "Heavy shotgun rounds, flechette type, designed specifically to overcome the usual ineffectiveness of flechettes against armor. Heavy flechette rounds travel at much greater speeds than normal, allowing them to penetrate armored targets more effectively.",
+    "weight": 3000,
+    "volume": 2,
+    "price": 500000,
+    "material": [ "polymer", "powder" ],
+    "symbol": "=",
+    "color": "grey",
+    "count": 30,
+    "stack_size": 30,
+    "ammo_type": "needler",
+    "range": 6,
+    "pierce" : 2,
+    "damage": 60,
+    "recoil": 20,
+    "effects": [ "COOKOFF", "SHOT", "NEVER_MISFIRES", ]
+  }
+]
+
