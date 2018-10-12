@@ -1,5 +1,5 @@
 [
-	{
+  {
     "type": "GUN",
     "name": "'Firedrake' Support Needler",
     "name_plural": "'Firedrake' Support Needlers",
@@ -31,5 +31,5 @@
       [ "stock", 1 ],
       [ "underbarrel", 1 ]
     ]
-  },
+  }
 ]
