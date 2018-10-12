@@ -12,7 +12,7 @@
     "color": "grey",
     "count": 10,
     "stack_size": 30,
-    "ammo_type": "needler",
+    "ammo_type": "if_block",
     "range": 6,
     "damage": 60,
     "recoil": 20,
