@@ -36,7 +36,7 @@
     "pierce" : 2,
     "damage": 60,
     "recoil": 20,
-    "effects": [ "COOKOFF", "SHOT", "NEVER_MISFIRES", ]
+    "effects": [ "COOKOFF", "SHOT", "NEVER_MISFIRES" ]
   }
 ]
 
