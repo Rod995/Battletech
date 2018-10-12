@@ -204,7 +204,35 @@ Battletech Megamod for C:DDA.
 
 ### Infantry Weaponry
 
-```TBA```
+| Ballistics-Pistol | Status |
+| ------------ | ------ |
+
+| Ballistics-Rifles | Status |
+| ------------ | ------ |
+
+| Ballistics-Shotguns | Status |
+| ------------ | ------ |
+
+| Ballistics-Support | Status |
+| ------------ | ------ |
+
+| Ballistics-Machine Guns | Status |
+| ------------ | ------ |
+
+| Energy-Pistol | Status |
+| ------------ | ------ |
+
+| Energy-Rifles | Status |
+| ------------ | ------ |
+
+| Missile-Support | Status |
+| ------------ | ------ |
+
+| Misc-Support | Status |
+| ------------ | ------ |
+
+| Grenades | Status |
+| ------------ | ------ |
 
 ### Infantry Armor
 
