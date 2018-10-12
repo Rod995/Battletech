@@ -1,0 +1,8 @@
+[
+    {
+        "type" : "ammunition_type",
+        "id" : "needler",
+        "name" : "Polymer-Composite Flechette Block",
+        "default" : "needler"
+    }
+]
