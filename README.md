@@ -215,6 +215,7 @@ Battletech Megamod for C:DDA.
 
 | Ballistics-Support | Status |
 | ------------ | ------ |
+| 'Firedrake' Support Needler | :heavy_check_mark: |
 
 | Ballistics-Machine Guns | Status |
 | ------------ | ------ |
