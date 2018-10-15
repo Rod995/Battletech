@@ -30,5 +30,36 @@
       [ "stock", 1 ],
       [ "underbarrel", 1 ]
     ]
+  },{
+    "type": "GUN",
+    "name": "'Shredder' Heavy Needler",
+    "name_plural": "'Shredder' Heavy Needlers",
+    "skill": "shotgun",
+    "ammo": "hf_block",
+    "id": "shred_needler",
+    "description": "The 'Shredder' Heavy Needler is a Needler Rifle produced by Omnitech for the Lyran Alliance. Resembling a small, wide-barreled rifle, the Shredder is designed specifically to overcome the usual ineffectiveness of flechettes against armor. Its high-speed cutters launch heavy flechette rounds at much greater speeds than normal, allowing them to penetrate armored targets more effectively.",
+    "weight": 1000,
+    "volume": 8,
+    "price": 169900,
+    "to_hit": -1,
+    "bashing": 7,
+    "material": [ "steel", "plastic" ],
+    "ranged_damage": 4,
+    "dispersion": 410,
+    "durability": 9,
+    "clip_size": 10,
+    "flags": [ "RELOAD_ONE" ],
+    "valid_mod_locations": [
+      [ "accessories", 4 ],
+      [ "barrel", 1 ],
+      [ "bore", 1 ],
+      [ "grip", 1 ],
+      [ "mechanism", 4 ],
+      [ "muzzle", 1 ],
+      [ "rail", 1 ],
+      [ "sights", 1 ],
+      [ "stock", 1 ],
+      [ "underbarrel", 1 ]
+    ]
   }
 ]

@@ -13,7 +13,7 @@
     "count": 10,
     "stack_size": 30,
     "ammo_type": "if_block",
-    "range": 6,
+    "range": 8,
     "damage": 60,
     "recoil": 20,
     "effects": [ "COOKOFF", "SHOT", "NEVER_MISFIRES", "INCENDIARY", "NAPALM", "CUSTOM_EXPLOSION" ]
@@ -23,7 +23,7 @@
     "type": "AMMO",
     "name": "Heavy Fléchette Block",
     "description": "Heavy shotgun rounds, fléchette type, designed specifically to overcome the usual ineffectiveness of fléchettes against armor. Heavy fléchette rounds travel at much greater speeds than normal, allowing them to penetrate armored targets more effectively.",
-    "weight": 3000,
+    "weight": 240,
     "volume": 2,
     "price": 500000,
     "material": [ "plastic", "powder" ],
@@ -32,10 +32,10 @@
     "count": 10,
     "stack_size": 30,
     "ammo_type": "needler",
-    "range": 6,
-    "pierce" : 2,
+    "range": 3,
+    "pierce" : 7,
     "damage": 60,
-    "recoil": 20,
+    "recoil": 25,
     "effects": [ "COOKOFF", "SHOT", "NEVER_MISFIRES" ]
   }
 ]
