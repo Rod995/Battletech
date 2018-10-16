@@ -17,6 +17,7 @@
     "dispersion": 345,
     "durability": 9,
     "clip_size": 30,
+    "symbol": "=",
     "flags": [ "RELOAD_ONE" ],
     "valid_mod_locations": [
       [ "accessories", 4 ],
@@ -48,6 +49,7 @@
     "dispersion": 410,
     "durability": 9,
     "clip_size": 10,
+    "symbol": "=",
     "flags": [ "RELOAD_ONE" ],
     "valid_mod_locations": [
       [ "accessories", 4 ],
@@ -63,8 +65,8 @@
     ]
   },{
     "type": "GUN",
-    "name": "'Shredder' Heavy Needler",
-    "name_plural": "'Shredder' Heavy Needlers",
+    "name": "Needler Rifle",
+    "name_plural": "Needler Rifles",
     "skill": "shotgun",
     "ammo": "fl_block",
     "id": "rifle_needler",
@@ -79,6 +81,7 @@
     "dispersion": 410,
     "durability": 9,
     "clip_size": 10,
+    "symbol": "=",
     "flags": [ "RELOAD_ONE" ],
     "valid_mod_locations": [
       [ "accessories", 4 ],
