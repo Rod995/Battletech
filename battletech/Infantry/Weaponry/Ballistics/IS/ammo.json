@@ -13,7 +13,6 @@
     "count": 10,
     "stack_size": 30,
     "ammo_type": "if_block",
-    "range": 35,
     "damage": 54,
     "recoil": 20,
     "effects": [ "COOKOFF", "SHOT", "NEVER_MISFIRES", "INCENDIARY", "NAPALM", "CUSTOM_EXPLOSION" ]
@@ -32,7 +31,6 @@
     "count": 10,
     "stack_size": 30,
     "ammo_type": "hf_block",
-    "range": 9,
     "pierce" : 7,
     "damage": 47,
     "recoil": 25,
@@ -52,7 +50,6 @@
     "count": 10,
     "stack_size": 30,
     "ammo_type": "fl_block",
-    "range": 19,
     "pierce" : 2,
     "damage": 31,
     "recoil": 25,
