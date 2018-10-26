@@ -14,8 +14,6 @@
 		"gun_data": {
 			"skill": "launchers",
 			"range": 23,
-			//: Is this legal, sir?
-			//: I shall make it legal.
 			"name": "SRM-2 Integrated",
 			}
 		"artifact_data": {
