@@ -1,0 +1,19 @@
+[
+    {
+        "type": "vehicle_part",
+        "id": "primitive_armor",
+        "name": "steel plating",
+        "symbol": ")",
+        //: 11 Points of armor per ton, noice.
+        "color": "grey",
+        "broken_symbol": "|",
+        "broken_color": "light_cyan",
+        "durability": 1070,
+        "item": "primitive_armor_plate",
+        "difficulty": 1,
+        "location": "armor",
+        "flags": [ "ARMOR", "MULTISQUARE" ],
+        "breaks_into": "primitive_armor_plate",
+        "damage_reduction": { "all": 10 }
+    }
+]
