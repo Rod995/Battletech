@@ -15,7 +15,7 @@
 			"skill": "launchers",
 			"range": 23,
 			"name": "SRM-2 Integrated",
-			}
+			},
 		"artifact_data": {
 			"effects_worn": ["AEP_STR_UP"]
 			
