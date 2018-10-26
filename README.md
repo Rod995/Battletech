@@ -313,9 +313,6 @@ Battletech Megamod for C:DDA.
 | Fire Mandrill | :x: |
 | Fuster-lizard | :x: |
 | Ghost Bear | :x: |
-
-Lemme break here. Anyone remember Clan Ghost Bear?
-
 | Gillarg | :x: |
 | Godan | :x: |
 | Goji | :x: |
