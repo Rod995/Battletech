@@ -206,22 +206,41 @@ Battletech Megamod for C:DDA.
 
 | Ballistics-Pistol | Status |
 | ------------ | ------ |
+| Needler Pistol | :heavy_check_mark: |
+
 
 | Ballistics-Rifles | Status |
 | ------------ | ------ |
+| Needler Rifle | :heavy_check_mark: |
+| 'Shredder' Heavy Needler | :heavy_check_mark: |
+| M&G Flechette Rifle | :x: |
+| Gyroslug Carbine | :x: |
+| 'Star King' Gyroslug Carbine | :x: |
+| Gyroslug Rifle | :x: |
+| Heavy Gyrojet Gun | :x: |
+| Gyrojet Rifle | :x: |
+| 'Thunderstroke' Gauss Rifle | :x: |
+| 'Thunderstroke II' Gauss Rifle | :x: |
+| Auto-Rifle | :x: |
+| Elephant Gun | :x: |
+
 
 | Ballistics-Shotguns | Status |
 | ------------ | ------ |
+
 
 | Ballistics-Support | Status |
 | ------------ | ------ |
 | 'Firedrake' Support Needler | :heavy_check_mark: |
 
+
 | Ballistics-Machine Guns | Status |
 | ------------ | ------ |
 
+
 | Energy-Pistol | Status |
 | ------------ | ------ |
+
 
 | Energy-Rifles | Status |
 | ------------ | ------ |
@@ -250,4 +269,61 @@ Battletech Megamod for C:DDA.
 | Helm Memory Core | :x: |
 | Fusion Engine | :x: |
 | Mechanical Jump Booster | :x: |
+
+## Quick Notice
+
+> So as it turns out, there's a *whole* list of creatures in Battletech lore that I've never heard about. How nice.
+
+## Alien Flora and Fauna
+
+| Fauna | Status |
+| ----- | ------ |
+| Agouti Rat | :x: |
+| Agrat | :x: |
+| Albion Vampire Bat | :x: |
+| Alrakis Tigerfalcon | :x: |
+| Arcturan Razorcat | :x: |
+| Bewasp | :x: |
+| Bithinian Dirt Grinder | :x: |
+| Black Reaper | :x: |
+| Blood Limpet | :x: |
+| Blood Spirit | :x: |
+| Blue Snapper | :x: |
+| Branth | :x: |
+| Bucky Brown | :x: |
+| Burrock | :x: |
+| Canopian Chihuahua | :x: |
+| Clamp Leech | :x: |
+| Cloud Cobra | :x: |
+| Conqueror Worms | :x: |
+| Coyote | :x: |
+| Crana | :x: |
+| Crocale | :x: |
+| Crowley Lizard Cow | :x: |
+| Dagada | :x: |
+| Denkaika | :x: |
+| Desert Lanik | :x: |
+| Diamond Shark | :x: |
+| Draconian Skunk | :x: |
+| Dragon Dove | :x: |
+| Dune Pup | :x: |
+| Dune Rat | :x: |
+| Eden Beaver | :x: |
+| Eden Serpent | :x: |
+| Fire Mandrill | :x: |
+| Fuster-lizard | :x: |
+| Ghost Bear | :x: |
+
+Lemme break here. Anyone remember Clan Ghost Bear?
+
+| Gillarg | :x: |
+| Godan | :x: |
+| Goji | :x: |
+
+
+
+
+
+
+
 
