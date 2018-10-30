@@ -276,11 +276,9 @@ Battletech Megamod for C:DDA.
 | Fusion Engine | :x: |
 | Mechanical Jump Booster | :x: |
 
-## Quick Notice
-
-> So as it turns out, there's a *whole* list of creatures in Battletech lore that I've never heard about. How nice.
-
 ## Alien Flora and Fauna
+### Quick Notice
+> So as it turns out, there's a *whole* list of creatures in Battletech lore that I've never heard about. How nice.
 
 | Fauna | Status |
 | ----- | ------ |
