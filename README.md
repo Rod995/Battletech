@@ -1,8 +1,15 @@
 # Battletech
 Battletech Megamod for C:DDA.
 # Things to Add
+- [ ] Battle Armor
+- [ ] Battle Armor Weaponry
+- [ ] Battle Armor Equipment
+- [ ] Infantry Weaponry
+- [ ] Infantry Equipment
+- [ ] Infantry Misc
+- [ ] Tech
+- [ ] Alien Flora/Fauna
 ## Battle Armor
-
 | Item | Status |
 | ---- | ------ |
 | Achileus | :x: |
@@ -60,22 +67,19 @@ Battletech Megamod for C:DDA.
 | Sloth | :x: |
 | PAB-28 Sniper Suit | :x: |
 | Spectre | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
-|  | :x: |
+| Sylph | :x: |
+| Taranis | :x: |
+| Tengu | :x: |
+| Thunderbird | :x: |
+| Tornado | :x: |
+| Tortoise II | :x: |
+| Trinity | :x: |
+| Undine | :x: |
+| Void | :x: |
+| Warg | :x: |
+| Wraith | :x: |
+| Xiphos | :x: |
+| Zou | :x: |
 
 ### Gray Death Series
 
