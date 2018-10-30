@@ -252,23 +252,28 @@ Battletech Megamod for C:DDA.
 | Auto-Rifle | :x: |
 | Elephant Gun | :x: |
 
-
 | Ballistics-Shotguns | Status |
 | ------------ | ------ |
-
 
 | Ballistics-Support | Status |
 | ------------ | ------ |
 | 'Firedrake' Support Needler | :heavy_check_mark: |
 
-
 | Ballistics-Machine Guns | Status |
 | ------------ | ------ |
 
-
 | Energy-Pistol | Status |
 | ------------ | ------ |
-
+| Laser Pistol | :x: |
+| Laser Pistol (Blazer) | :x: |
+| Laser Pistol (Hold-Out) | :x: |
+| Laser Pistol (Hold-Out (White Dwarf))| :x: |
+| Laser Pistol (Nakjima) | :x: |
+| Laser Pistol (Sunbeam) | :x: |
+| Laser Pistol (Sunbeam Nova) | :x: |
+| ER Laser Pistol | :x: |
+| Pulse Laser Pistol (Clan) | :x: |
+| Pulse Laser Pistol (IS) | :x: |
 
 | Energy-Rifles | Status |
 | ------------ | ------ |
