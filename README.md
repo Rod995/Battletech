@@ -11,8 +11,9 @@ Battletech Megamod for C:DDA.
 - [ ] Alien Flora/Fauna
 
 ## Battle Armor
-| Item | Status |
-| ---- | ------ |
+
+| Armor | Status |
+| ----- | ------ |
 | Achileus | :x: |
 | Aerie | :x: |
 | Afreet | :x: |
