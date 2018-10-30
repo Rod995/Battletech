@@ -213,6 +213,24 @@ Battletech Megamod for C:DDA.
 | Ballistics-Pistol | Status |
 | ------------ | ------ |
 | Needler Pistol | :heavy_check_mark: |
+| Needler Pistol (Hold-Out) | :x: |
+| M&G Flechette Pistol| :x: |
+| Sea Eagle Needler Pistol | :x: |
+| Gyrojet Pistol | :x: |
+| Gyroget Pistol (Hold-Out(CH)) | :x: |
+| Gyrojet Pistol (Hold-Out) | :x: |
+| Gauss Pistol | :x: |
+| Gauss Pistol (Hold-Out(M)) | :x: |
+| Auto-Pistol | :x: |
+| Auto-Pistol (Magnum) | :x: |
+| Auto-Pistol (Mydron) | :x: |
+| Auto-Pistol (Nambu) | :x: |
+| Auto-Pistol (Sternsnacht Python) | :x: |
+| Auto-Pistol (Stetta) | :x: |
+| Auto-Pistol (Hawk Eagle) | :x: |
+| Auto-Pistol (Serrek 7875D) | :x: |
+|  | :x: |
+|  | :x: |
 
 
 | Ballistics-Rifles | Status |
