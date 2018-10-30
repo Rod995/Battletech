@@ -1,7 +1,47 @@
 [
   {
     "type": "MONSTER_FACTION",
-    "name": "dragonis combine placeholder",
+    "name": "Capellan Confederation",
+    "base_faction": "human"
+  },
+  {
+    "type": "MONSTER_FACTION",
+    "name": "Capellan Confederation",
+    "base_faction": "human"
+  },
+  {
+    "type": "MONSTER_FACTION",
+    "name": "Capellan Confederation",
+    "base_faction": "human"
+  },
+  {
+    "type": "MONSTER_FACTION",
+    "name": "Capellan Confederation",
+    "base_faction": "human"
+  },
+  {
+    "type": "MONSTER_FACTION",
+    "name": "Capellan Confederation",
+    "base_faction": "human"
+  },
+  {
+    "type": "MONSTER_FACTION",
+    "name": "Capellan Confederation",
+    "base_faction": "human"
+  },
+  {
+    "type": "MONSTER_FACTION",
+    "name": "Capellan Confederation",
+    "base_faction": "human"
+  },
+  {
+    "type": "MONSTER_FACTION",
+    "name": "Capellan Confederation",
+    "base_faction": "human"
+  },
+  {
+    "type": "MONSTER_FACTION",
+    "name": "Capellan Confederation",
     "base_faction": "human"
   },
   {
