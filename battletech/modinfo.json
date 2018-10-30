@@ -2,9 +2,9 @@
   {
     "type": "MOD_INFO",
     "ident": "battletech",
-    "name": "Battletech MegaMod",
+    "name": "Battletech",
     "authors": [ "Rod995" ],
-    "description": "WIP Megamod hoping to add stuff from Battletech.",
+    "description": "WIP Mod to, hopefully, add *everything* from the Battletech universe.",
     "category": "items",
     "dependencies": [ "dda" ]
   }
