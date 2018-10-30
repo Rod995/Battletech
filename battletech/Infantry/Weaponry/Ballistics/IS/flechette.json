@@ -106,14 +106,14 @@
     "skill": "pistol",
     "ammo": "fl_block",
     "id": "pistol_needler",
-    "description": "The Needler Rifle is a vicious weapon that fires a spray of tiny fletchettes that can easily shred flesh. These fletchettes are created by shredding a polymer-composite block and fired by a burst of compressed gas, making the weapon noiseless with little to no recoil and the favorite choice of assassins. However, it is an incredibly short-ranged weapon with almost no armor penetration capabilities. This limits its use to self-defense and close-quarters combat, though it serves as an ideal weapon for boarding space-vessels.",
+    "description": "The Needler Pistol is a vicious weapon that fires a spray of tiny flechettes which easily shreds flesh.However, needlers are incredibly short-ranged weapons with almost no armor penetration capabilities. This limits their use to self-defense and close-quarters combat, as well as being ideal weapons for boarding space-vessels.This pistol is lighter and cheaper than the Needler Rifle and a favorite back-up weapon throughout the Inner Sphere and Periphery.",
     "weight": 300,
     "volume": 0.5,
-    "price": 15000,
+    "price": 50000,
     "to_hit": 0,
     "bashing": 3,
     "material": [ "steel", "plastic" ],
-    "ranged_damage": 2,
+    "ranged_damage": 5,
     "dispersion": 80,
     "durability": 9,
     "clip_size": 10,
@@ -126,6 +126,32 @@
       [ "muzzle", 1 ],
       [ "sights", 1 ],
       [ "stock", 1 ]
+    ]
+  },{
+    "type": "GUN",
+    "name": "Holdout Needler Pistol",
+    "name_plural": "Holdout Needler Pistols",
+    "skill": "pistol",
+    "ammo": "fl_block",
+    "id": "pistol_needler_holdout",
+    "description": "The Hold-Out Needler Pistol is one of the smallest personal weapons on the market and, despite its incredibly short range, delivers as much damage as a full-sized Needler Pistol. For many MechWarriors, this disposable pocket pistol is their last line of defense in an emergency.",
+    "weight": 50,
+    "volume": 0.5,
+    "price": 20000,
+    "to_hit": -1,
+    "bashing": 3,
+    "material": [ "steel", "plastic" ],
+    "ranged_damage": 2,
+    "dispersion": 80,
+    "durability": 9,
+    "clip_size": 10,
+    "symbol": "h",
+    "range": 4,
+    "valid_mod_locations": [
+      [ "accessories", 1 ],
+      [ "grip", 1 ],
+      [ "muzzle", 1 ],
+      [ "sights", 1 ]
     ]
   }
 ]
