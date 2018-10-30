@@ -6,42 +6,118 @@
   },
   {
     "type": "MONSTER_FACTION",
-    "name": "Capellan Confederation",
+    "name": "Draconis Combine",
     "base_faction": "human"
   },
   {
     "type": "MONSTER_FACTION",
-    "name": "Capellan Confederation",
+    "name": "Federated Suns",
     "base_faction": "human"
   },
   {
     "type": "MONSTER_FACTION",
-    "name": "Capellan Confederation",
+    "name": "Free Worlds League",
     "base_faction": "human"
   },
   {
     "type": "MONSTER_FACTION",
-    "name": "Capellan Confederation",
+    "name": "Lyran Commonwealth",
     "base_faction": "human"
   },
   {
     "type": "MONSTER_FACTION",
-    "name": "Capellan Confederation",
+    "name": "Republic of the Sphere",
     "base_faction": "human"
   },
   {
     "type": "MONSTER_FACTION",
-    "name": "Capellan Confederation",
+    "name": "Clan_Wolf-in-Exile",
     "base_faction": "human"
   },
   {
     "type": "MONSTER_FACTION",
-    "name": "Capellan Confederation",
+    "name": "Duchy of Andurien",
     "base_faction": "human"
   },
   {
     "type": "MONSTER_FACTION",
-    "name": "Capellan Confederation",
+    "name": "Duchy of Tamarind-Abbey",
+    "base_faction": "human"
+  },{
+    "type": "MONSTER_FACTION",
+    "name": "Marik-Stewart Commonwealth",
+    "base_faction": "human"
+  },{
+    "type": "MONSTER_FACTION",
+    "name": "Rasalhague Dominion",
+    "base_faction": "human"
+  },{
+    "type": "MONSTER_FACTION",
+    "name": "Regulan Fiefs",
+    "base_faction": "human"
+  },{
+    "type": "MONSTER_FACTION",
+    "name": "Rim Commonality",
+    "base_faction": "human"
+  },{
+    "type": "MONSTER_FACTION",
+    "name": "Wolf Empire",
+    "base_faction": "human"
+  },{
+    "type": "MONSTER_FACTION",
+    "name": "Calderon Protectorate",
+    "base_faction": "human"
+  },{
+    "type": "MONSTER_FACTION",
+    "name": "Fiefdom of Randis",
+    "base_faction": "human"
+  },{
+    "type": "MONSTER_FACTION",
+    "name": "Filtvelt Coalition",
+    "base_faction": "human"
+  },{
+    "type": "MONSTER_FACTION",
+    "name": "Fronc Reaches",
+    "base_faction": "human"
+  },{
+    "type": "MONSTER_FACTION",
+    "name": "Lothian League",
+    "base_faction": "human"
+  },{
+    "type": "MONSTER_FACTION",
+    "name": "Magistracy of Canopus",
+    "base_faction": "human"
+  },{
+    "type": "MONSTER_FACTION",
+    "name": "Marian Hegemony",
+    "base_faction": "human"
+  },{
+    "type": "MONSTER_FACTION",
+    "name": "Niops Association",
+    "base_faction": "human"
+  },{
+    "type": "MONSTER_FACTION",
+    "name": "Outworlds Alliance",
+    "base_faction": "human"
+  },{
+    "type": "MONSTER_FACTION",
+    "name": "Raven Alliance",
+    "base_faction": "human"
+  },{
+    "type": "MONSTER_FACTION",
+    "name": "Rim Collection",
+    "base_faction": "human"
+  },{
+    "type": "MONSTER_FACTION",
+    "name": "Rim Territories",
+    "base_faction": "human"
+  },{
+    "type": "MONSTER_FACTION",
+    "name": "Taurian Concordat",
+    "base_faction": "human"
+  },{
+    "type": "MONSTER_FACTION",
+    "name": "Tortuge Dominions",
     "base_faction": "human"
   },
   {
