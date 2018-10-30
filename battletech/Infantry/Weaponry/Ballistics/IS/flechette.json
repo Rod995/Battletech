@@ -187,7 +187,7 @@
     "name_plural": "SE Needler Pistols",
     "skill": "smg",
     "ammo": "fl_block",
-    "id": "pistol_needler_smg",
+    "id": "pistol_needler_light",
     "description": "The Sea Eagle Needler Pistol is a Needler Pistol produced by Irian PersArms, a subsidiary of Irian Technologies founded in 3032. Their sole entry into the needler market, unlike other needler pistols Irian's lightweight design can be fired one-handed, though a secondary grip under the barrel facilitates two-handed firing. The Sea Eagle's speed of fire and excellent balance also means its apparent recoil is less than other needler pistols, however its size limits the number of shots available and at its maximum rate of fire the pistol will expend its ammunition in only two bursts.",
     "weight": 350,
     "volume": 0.5,
