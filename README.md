@@ -9,6 +9,7 @@ Battletech Megamod for C:DDA.
 - [ ] Infantry Misc
 - [ ] Tech
 - [ ] Alien Flora/Fauna
+
 ## Battle Armor
 | Item | Status |
 | ---- | ------ |
