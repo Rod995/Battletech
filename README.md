@@ -229,9 +229,13 @@ Battletech Megamod for C:DDA.
 | Auto-Pistol (Stetta) | :x: |
 | Auto-Pistol (Hawk Eagle) | :x: |
 | Auto-Pistol (Serrek 7875D) | :x: |
-|  | :x: |
-|  | :x: |
-
+| Machine-Pistol (Martial Eagle) | :x: |
+| Revolver | :x: |
+| Revolver (Magnum) | :x: |
+| Pistol (Makeshift) | :x: |
+| Pistol (TK Enforcer Semi-Auto) | :x: |
+| Pistol (Sternsnancht Heavy (Claymore)) | :x: |
+| Pistol (Hold-Out) | :x: |
 
 | Ballistics-Rifles | Status |
 | ------------ | ------ |
