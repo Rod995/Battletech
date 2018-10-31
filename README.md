@@ -311,7 +311,7 @@ Battletech Megamod for C:DDA.
 | ----- | ------ |
 | Agouti Rat | :x: |
 | Agrat | :heavy_check_mark: |
-| Albion Vampire Bat | :x: |
+| Albion Vampire Bat | :heavy_check_mark: |
 | Alrakis Tigerfalcon | :x: |
 | Arcturan Razorcat | :x: |
 | Bewasp | :x: |
