@@ -1,6 +1,6 @@
 [
     {
-        "id": "rm13_armor",
+        "id": "elemental_OFF",
         "type": "TOOL_ARMOR",
         "category" : "armor",
         "symbol": "E",
@@ -22,9 +22,9 @@
         "environmental_protection" : 15,
         "encumbrance" : 30,
         "coverage" : 100,
-        "material_thickness" : 2
+        "material_thickness" : 12
     },{
-        "id": "rm13_armor_on",
+        "id": "elemental_ON",
         "type": "TOOL_ARMOR",
         "category" : "armor",
         "symbol": "[",
@@ -50,6 +50,6 @@
         "encumbrance" : 6,
         "coverage" : 100,
         "qualities" : [["GLARE", 2]],
-        "material_thickness" : 7
+        "material_thickness" : 20
     }
 ]
