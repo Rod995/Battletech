@@ -4,7 +4,6 @@
         "id": "primitive_armor",
         "name": "steel plating",
         "symbol": ")",
-        //: 11 Points of armor per ton, noice.
         "color": "grey",
         "broken_symbol": "|",
         "broken_color": "light_cyan",
