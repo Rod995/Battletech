@@ -241,7 +241,7 @@ Battletech Megamod for C:DDA. Buildings have had help from Chaosvolt.
 | ------------ | ------ |
 | Needler Rifle | :heavy_check_mark: |
 | 'Shredder' Heavy Needler | :heavy_check_mark: |
-| M&G Flechette Rifle | :x: |
+| M&G Flechette Rifle | :heavy_check_mark: |
 | Gyroslug Carbine | :x: |
 | 'Star King' Gyroslug Carbine | :x: |
 | Gyroslug Rifle | :x: |
