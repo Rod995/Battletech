@@ -213,29 +213,29 @@ Battletech Megamod for C:DDA. Buildings have had help from Chaosvolt.
 | Ballistics-Pistol | Status |
 | ------------ | ------ |
 | Needler Pistol | :heavy_check_mark: |
-| Needler Pistol (Hold-Out) | :x: |
-| M&G Flechette Pistol| :x: |
-| Sea Eagle Needler Pistol | :x: |
+| Holdout Needler | :heavy_check_mark: |
+| M&G Flechette Pistol| :heavy_check_mark: |
+| Sea Eagle Needler Pistol | :heavy_check_mark: |
 | Gyrojet Pistol | :x: |
 | Gyroget Pistol (Hold-Out(CH)) | :x: |
-| Gyrojet Pistol (Hold-Out) | :x: |
+| Gyrojet Holdout Pistol  | :x: |
 | Gauss Pistol | :x: |
 | Gauss Pistol (Hold-Out(M)) | :x: |
 | Auto-Pistol | :x: |
-| Auto-Pistol (Magnum) | :x: |
-| Auto-Pistol (Mydron) | :x: |
-| Auto-Pistol (Nambu) | :x: |
-| Auto-Pistol (Sternsnacht Python) | :x: |
-| Auto-Pistol (Stetta) | :x: |
-| Auto-Pistol (Hawk Eagle) | :x: |
-| Auto-Pistol (Serrek 7875D) | :x: |
+| Magnum AP | :x: |
+| Mydron AP | :x: |
+| Nambu AP | :x: |
+| Sternsnacht Python AP | :x: |
+| Stetta AP | :x: |
+| Hawk Eagle AP | :x: |
+| Serrek 7875D | :x: |
 | Machine-Pistol (Martial Eagle) | :x: |
 | Revolver | :x: |
-| Revolver (Magnum) | :x: |
-| Pistol (Makeshift) | :x: |
-| Pistol (TK Enforcer Semi-Auto) | :x: |
-| Pistol (Sternsnancht Heavy (Claymore)) | :x: |
-| Pistol (Hold-Out) | :x: |
+| Magnum Revolver | :x: |
+| Makeshift Pistol | :x: |
+| TK Enforcer Semi-Auto | :x: |
+| Sternsnancht Heavy Claymore Pistol | :x: |
+| Hold-Out Pistol | :x: |
 
 | Ballistics-Rifles | Status |
 | ------------ | ------ |
