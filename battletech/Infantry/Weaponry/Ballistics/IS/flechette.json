@@ -34,7 +34,8 @@
       [ "stock", 1 ],
       [ "underbarrel", 1 ]
     ]
-  },{
+  },
+  {
     "type": "GUN",
     "name": "'Shredder' Heavy Needler",
     "name_plural": "'Shredder' Heavy Needlers",
@@ -67,7 +68,8 @@
       [ "stock", 1 ],
       [ "underbarrel", 1 ]
     ]
-  },{
+  },
+  {
     "type": "GUN",
     "name": "Needler Rifle",
     "name_plural": "Needler Rifles",
@@ -99,7 +101,8 @@
       [ "stock", 1 ],
       [ "underbarrel", 1 ]
     ]
-  },{
+  },
+  {
     "type": "GUN",
     "name": "Needler Pistol",
     "name_plural": "Needler Pistols",
@@ -120,14 +123,9 @@
     "symbol": "=",
     "burst": 5,
     "range": 8,
-    "valid_mod_locations": [
-      [ "accessories", 1 ],
-      [ "grip", 1 ],
-      [ "muzzle", 1 ],
-      [ "sights", 1 ],
-      [ "stock", 1 ]
-    ]
-  },{
+    "valid_mod_locations": [ [ "accessories", 1 ], [ "grip", 1 ], [ "muzzle", 1 ], [ "sights", 1 ], [ "stock", 1 ] ]
+  },
+  {
     "type": "GUN",
     "name": "Holdout Needler Pistol",
     "name_plural": "Holdout Needler Pistols",
@@ -147,13 +145,9 @@
     "clip_size": 10,
     "symbol": "h",
     "range": 4,
-    "valid_mod_locations": [
-      [ "accessories", 1 ],
-      [ "grip", 1 ],
-      [ "muzzle", 1 ],
-      [ "sights", 1 ]
-    ]
-  },{
+    "valid_mod_locations": [ [ "accessories", 1 ], [ "grip", 1 ], [ "muzzle", 1 ], [ "sights", 1 ] ]
+  },
+  {
     "type": "GUN",
     "name": "M&G Flechette Pistol",
     "name_plural": "M&G Flechette Pistols",
@@ -174,14 +168,9 @@
     "symbol": "=",
     "burst": 5,
     "range": 7,
-    "valid_mod_locations": [
-      [ "accessories", 1 ],
-      [ "grip", 1 ],
-      [ "muzzle", 1 ],
-      [ "sights", 1 ],
-      [ "stock", 1 ]
-    ]
-  },{
+    "valid_mod_locations": [ [ "accessories", 1 ], [ "grip", 1 ], [ "muzzle", 1 ], [ "sights", 1 ], [ "stock", 1 ] ]
+  },
+  {
     "type": "GUN",
     "name": "Sea Eagle Needler Pistol",
     "name_plural": "SE Needler Pistols",
@@ -202,12 +191,6 @@
     "symbol": "=",
     "burst": 5,
     "range": 7,
-    "valid_mod_locations": [
-      [ "accessories", 1 ],
-      [ "grip", 1 ],
-      [ "muzzle", 1 ],
-      [ "sights", 1 ],
-      [ "stock", 1 ]
-    ]
+    "valid_mod_locations": [ [ "accessories", 1 ], [ "grip", 1 ], [ "muzzle", 1 ], [ "sights", 1 ], [ "stock", 1 ] ]
   }
 ]
