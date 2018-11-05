@@ -15,3 +15,9 @@
 * Warhawk of Cheese
 
 > https://mwo.smurfy-net.de/mechlab#i=271&l=92e3f428e621cdeffc75938b10e8ed8c552f9893
+
+### Annihilator
+
+* Song of Seraphs
+
+> https://mwo.smurfy-net.de/mechlab#i=569&l=a3741ecd8450ee94ba2428b13be517477332cd77
