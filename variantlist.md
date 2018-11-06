@@ -10,7 +10,7 @@
 
 > https://mwo.smurfy-net.de/mechlab#i=138&l=216c2390a147bf9d2a2805ff8b5a8a13b3299179
 
-### Warhawk (*Masaki*)
+### Warhawk (*Masakari*)
 
 * Warhawk of Cheese
 
