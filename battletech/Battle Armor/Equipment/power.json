@@ -49,5 +49,5 @@
     "ammo_type": "battery",
     "count": 1,
     "fuel": { "energy": 1550 }
-  },
+  }
 ]
