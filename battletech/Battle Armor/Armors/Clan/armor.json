@@ -29,24 +29,20 @@
     "max_charges": 5000,
     "ammo": "h_cell",
     "use_action": {
-    "type": "ups_based_armor", // Armor that can be activated and uses power from an UPS, needs additional json code to work
-    "activate_msg": "You activate your foo.", // Message when the player activates the item.
-    "deactive_msg": "You deactivate your foo.", // Message when the player deactivates the item.
-    "out_of_power_msg": "Your foo runs out of power and deactivates itself." // Message when the UPS runs out of power and the item is deactivated automatically.
-},
-    "gun_data": {
-      "skill": "launcher",
-      "range": 23,
-      "name": "SRM-2 Integrated",
-      "ammo": "66mm",
-      "dispersion": 300,
-      "durability": 9,
-      "clip_size": 2,
-      "reload": 150
-      },
-    "artifact_data": {
-      "effects_worn": ["AEP_STR_UP"]
+      "type": "ups_based_armor",
+      "activate_msg": "You activate your armor.",
+      "deactive_msg": "You deactivate your armor.",
+      "out_of_power_msg": "Your foo runs out of power and deactivates itself."
     },
+    "gun_data": {
+      "type": "rifle",
+      "symbol": "[",
+      "color": "blue",
+      "id": "socks",
+      "name": "socks",
+      "valid_mod_locations": [ [ "accessories", 250 ] ]
+    },
+    "artifact_data": { "effects_worn": [ "AEP_STR_UP" ] },
     "covers": [ "HEAD", "MOUTH", "EYES", "TORSO", "ARMS", "HANDS", "LEGS", "FEET" ],
     "storage": 32,
     "warmth": 30,
@@ -59,11 +55,10 @@
     "id": "elemental_ON",
     "type": "TOOL_ARMOR",
     "category": "armor",
-    "symbol": "[",
+    "symbol": "E",
     "color": "dark_gray",
-    "name": "Elemental",
-    "name_plural": "RM13 combat armors (on)",
-    "description": "Internally powered by a maximum of ten plutonium fuel cells, this full-body suit of sleek black military armor represents the pinnacle of Rivtech's non-rigid powered armor technology.  It is turned on, and continually draining power.  Use it to turn it off.",
+    "name": "Elemental Battle Armor",
+    "description": "The standard against which all battle armor is measured, the Elemental battle armor was first introduced in 2868 by Clan Wolf in a Trial of Possession against the Nova Cats. It was a marvel of Clan engineering that allowed a small group of operators to take down large 'Mechs and survive the encounter. While it is possible for a normal-sized human to use the battle armor, this design is tailored for the Clans' giant Elemental warriors and only they can bring out its fullest potential.",
     "flags": [
       "VARSIZE",
       "STURDY",
@@ -73,47 +68,39 @@
       "ALARMCLOCK",
       "SWIM_GOGGLES",
       "SUN_GLASSES",
-      "RAD_PROOF",
-      "ELECTRIC_IMMUNE",
-      "THERMOMETER",
-      "TRADER_AVOID",
-      "CLIMATE_CONTROL"
+      "RAD_RESIST",
+      "WATER_FRIENDLY",
+      "POCKETS",
+      "PARTIAL_DEAF"
     ],
     "price": 50000000,
-    "material": [ "ceramic", "kevlar" ],
+    "material": [ "ceramic", "kevlar", "steel" ],
     "weight": 6820,
     "volume": 36,
     "to_hit": -3,
     "max_charges": 5000,
-    "turns_per_charge": 3,
     "ammo": "h_cell",
-    "revert_to": "elemental_OFF",
     "use_action": {
-    "type": "ups_based_armor", // Armor that can be activated and uses power from an UPS, needs additional json code to work
-    "activate_msg": "You activate your foo.", // Message when the player activates the item.
-    "deactive_msg": "You deactivate your foo.", // Message when the player deactivates the item.
-    "out_of_power_msg": "Your foo runs out of power and deactivates itself." // Message when the UPS runs out of power and the item is deactivated automatically.
-},
-    "gun_data": {
-      "skill": "launcher",
-      "range": 23,
-      "name": "SRM-2 Integrated",
-      "ammo": "66mm",
-      "dispersion": 300,
-      "durability": 9,
-      "clip_size": 2,
-      "reload": 150
-      },
-    "artifact_data": {
-      "effects_worn": ["AEP_STR_UP"]
+      "type": "ups_based_armor",
+      "activate_msg": "You activate the suit.",
+      "deactive_msg": "You deactivate the suit..",
+      "out_of_power_msg": "The Battle Armor has run out of hydrogen cells."
     },
+    "gun_data": {
+      "type": "GENERIC",
+      "symbol": "[",
+      "color": "blue",
+      "id": "socks",
+      "name": "socks",
+      "valid_mod_locations": [ [ "accessories", 4 ] ]
+    },
+    "artifact_data": { "effects_worn": [ "AEP_STR_UP" ] },
     "covers": [ "HEAD", "MOUTH", "EYES", "TORSO", "ARMS", "HANDS", "LEGS", "FEET" ],
-    "storage": 5,
-    "warmth": 50,
-    "environmental_protection": 40,
-    "encumbrance": 6,
+    "storage": 32,
+    "warmth": 30,
+    "environmental_protection": 15,
+    "encumbrance": 30,
     "coverage": 100,
-    "qualities": [ [ "GLARE", 2 ] ],
-    "material_thickness": 20
+    "material_thickness": 12
   }
 ]
