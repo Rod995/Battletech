@@ -1,1 +1,26 @@
-
+[
+  {
+    "id": "autocannon_2",
+    "type": "GUN",
+    "symbol": "/",
+    "color": "grey",
+    "name": "Autocannon/2",
+    "description": "The Autocannon is a direct-fire ballistic weapon, firing HEAP (High-Explosive Armor-Piercing) rounds at targets either singly or in bursts. This one has a rating of 2.",
+    "price": 81750000,
+    "material": "steel",
+    "flags": [ "NO_RELOAD", "MOUNTED_GUN" ],
+    "skill": "launcher",
+    "ammo": "shell_HEAP",
+    "weight": 119000,
+    "volume": 66,
+    "bashing": 314,
+    "to_hit": -12,
+    "range": 37,
+    "dispersion": 0,
+    "sight_dispersion": 10,
+    "durability": 9,
+    "clip_size": 45,
+    "reload": 100,
+    "loudness": 1340
+  }
+]
