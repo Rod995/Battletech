@@ -1,6 +1,6 @@
 [
   {
-    "type": "GENERIC",
+    "type": "TOOL_ARMOR",
     "id": "battle_claw",
     "name": "Battle Claw",
     "name_plural": "claws",
@@ -10,14 +10,14 @@
     "symbol": "{",
     "material": [ "steel" ],
     "volume": 3,
-    "techniques": [ "WBLOCK_1", "CRUSHER", "POWER_PUNCH" ],
+    "techniques": [ "WBLOCK_1", "tec_CRUSHER", "tec_POWER_PUNCH" ],
     "bashing": 12,
-    "cutting": 3,
+    "cutting": 300,
     "flags": [ "STAB", "UNARMED_WEAPON", "UNBREAKABLE_MELEE", "TRADER_AVOID" ],
     "qualities": [ [ "CUT", 1 ], [ "BUTCHER", -50 ] ]
   },
   {
-    "type": "GENERIC",
+    "type": "TOOL_ARMOR",
     "id": "basic_manipulator",
     "name": "Basic Manipulator",
     "name_plural": "manipulators",
