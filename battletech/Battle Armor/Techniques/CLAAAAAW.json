@@ -13,7 +13,7 @@
     "type": "technique",
     "id": "tec_POWER_PUNCH",
     "name": "Power Punch",
-    "min_unarmed": ,
+    "min_unarmed": 1,
     "unarmed_allowed": true,
     "stun_dur": 2,
     "mult_bonuses": [ [ "damage", "bash", 2.3 ] ],
