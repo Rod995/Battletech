@@ -1,1 +1,46 @@
-
+[
+  {
+    "id": "mon_aerial_beast_infantry",
+    "type": "MONSTER",
+    "name": "branth rider",
+    "description": "This Aerial Beast unit is able to cover large distances thanks to their Branth mounts, reaching speeds of 54 kph, and can easily induce terror into even the most hardened conventional infantry force.",
+    "default_faction": "Free_Worlds_League",
+    "categories": [ "CLASSIC" ],
+    "species": [ "HUMAN" ],
+    "diff": 265,
+    "volume": "2000000 ml",
+    "weight": "635029",
+    "hp": 120,
+    "speed": 70,
+    "material": [ "flesh" ],
+    "symbol": "A",
+    "color": "dark_gray_red",
+    "aggression": 20,
+    "morale": 100,
+    "melee_skill": 5,
+    "melee_dice": 3,
+    "melee_dice_sides": 6,
+    "melee_cut": 0,
+    "armor_bash": 64,
+    "armor_cut": 64,
+    "armor_acid": 20,
+    "armor_fire": 20,
+    "vision_day": 30,
+    "vision_night": 4,
+    "death_drops": "mon_zombie_armored_death_drops",
+    "death_function": [ "NORMAL" ],
+    "burn_into": "mon_zombie_scorched",
+    "flags": [
+      "SEES",
+      "HEARS",
+      "SMELLS",
+      "WARM",
+      "BASHES",
+      "GROUP_BASH",
+      "POISON",
+      "BLEED",
+      "BONES",
+      "FILTHY"
+    ]
+  }
+]
