@@ -39,8 +39,7 @@
       "GROUP_BASH",
       "POISON",
       "BLEED",
-      "BONES",
-      "FILTHY"
+      "BONES"
     ]
   },{
     "id": "mon_branth_irregular",
@@ -72,7 +71,7 @@
     "vision_night": 6,
     "death_drops": "aerial_branth_infantry_drop",
     "death_function": [ "NORMAL" ],
-    "burn_into": "burning_branth",
+    "burn_into": "insane_burning_branth",
     "flags": [
       "SEES",
       "HEARS",
@@ -82,8 +81,85 @@
       "GROUP_BASH",
       "POISON",
       "BLEED",
-      "BONES",
-      "FILTHY"
+      "BONES"
+    ]
+  },{
+    "id": "burning_branth",
+    "type": "MONSTER",
+    "name": "Branth Irregulars, Beta Regiment, Fifth Legionaire",
+    "description": "This Aerial Beast unit is able to cover large distances thanks to their Branth mounts, reaching speeds of 54 kph, and can easily induce terror into even the most hardened conventional infantry force.",
+    "default_faction": "Free_Worlds_League",
+    "categories": [ "CLASSIC" ],
+    "species": [ "HUMAN" ],
+    "diff": 265,
+    "volume": "2000000 ml",
+    "weight": "635029",
+    "hp": 2040,
+    "speed": 925,
+    "material": [ "flesh" ],
+    "symbol": "A",
+    "color": "dark_gray_red",
+    "aggression": -25,
+    "morale": 100,
+    "melee_skill": 2,
+    "melee_dice": 2,
+    "melee_dice_sides": 2,
+    "armor_bash": 8,
+    "armor_cut": 12,
+    "armor_acid": 5,
+    "armor_fire": 1,
+    "vision_day": 50,
+    "vision_night": 6,
+    "death_drops": "burning_branth_boss_drop",
+    "death_function": [ "NORMAL" ],
+    "flags": [
+      "SEES",
+      "HEARS",
+      "WARM",
+      "BASHES",
+      "PUSH_MON",
+      "POISON",
+      "BLEED",
+      "BONES"
+    ]
+  },{
+    "id": "burning_branth",
+    "type": "MONSTER",
+    "name": "Branth Irregulars, Beta Regiment, Fifth Legionaire",
+    "description": "This Aerial Beast unit is able to cover large distances thanks to their Branth mounts, reaching speeds of 54 kph, and can easily induce terror into even the most hardened conventional infantry force.",
+    "default_faction": "Free_Worlds_League",
+    "categories": [ "CLASSIC" ],
+    "species": [ "HUMAN" ],
+    "diff": 265,
+    "volume": "2000000 ml",
+    "weight": "635029",
+    "hp": 2040,
+    "speed": 925,
+    "material": [ "flesh" ],
+    "symbol": "A",
+    "color": "dark_gray_red",
+    "aggression": 100,
+    "morale": 100,
+    "melee_skill": 6,
+    "melee_dice": 8,
+    "melee_dice_sides": 20,
+    "armor_bash": 60,
+    "armor_cut": 60,
+    "armor_acid": 35,
+    "armor_fire": 35,
+    "vision_day": 50,
+    "vision_night": 6,
+    "death_drops": "burning_branth_boss_drop",
+    "death_function": [ "NORMAL" ],
+    "flags": [
+      "SEES",
+      "HEARS",
+      "WARM",
+      "BASHES",
+      "PUSH_MON",
+      "POISON",
+      "BLEED",
+      "BONES"
     ]
   }
 ]
