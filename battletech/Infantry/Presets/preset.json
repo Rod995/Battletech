@@ -39,6 +39,7 @@
       "GROUP_BASH",
       "POISON",
       "BLEED",
+      "ATTACKMON",
       "BONES"
     ]
   },{
@@ -81,6 +82,7 @@
       "GROUP_BASH",
       "POISON",
       "BLEED",
+      "ATTACKMON",
       "BONES"
     ]
   },{
@@ -120,6 +122,7 @@
       "PUSH_MON",
       "POISON",
       "BLEED",
+      "ATTACKMON",
       "BONES"
     ]
   },{
@@ -159,6 +162,7 @@
       "PUSH_MON",
       "POISON",
       "BLEED",
+      "ATTACKMON",
       "BONES"
     ]
   }
