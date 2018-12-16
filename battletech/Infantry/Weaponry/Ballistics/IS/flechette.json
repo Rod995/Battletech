@@ -125,7 +125,7 @@
       [ "DEFAULT", "SINGLE", 1 ],
       [ "DOUBLE", "DOUBLE", 3 ],
       [ "FINISHER", "FINISHER", 5 ],
-      [ "ANNIHILATION", "ANNIHILATION", 15 ]
+      [ "ANNIHILATION", "ANNIHILATION", 15 ],
       [ "THERE IS ONLY 'OPEN FIRE AND RELOAD'", "THERE IS ONLY 'OPEN FIRE AND RELOAD'", 30 ]
     ],
     "range": 16,
