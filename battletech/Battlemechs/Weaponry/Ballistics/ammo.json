@@ -4,7 +4,7 @@
     "type": "AMMO",
     "name": "AC/2 Shell",
     "description": "AC/2 ammo.",
-    "weight": 20159,
+    "weight": 448000,
     "volume": 45,
     "price": 500000,
     "material": [ "metal", "powder" ],
