@@ -27,7 +27,6 @@
     "volume": 36,
     "to_hit": -3,
     "max_charges": 5000,
-    "ammo": "h_cell",
     "use_action": {
       "type": "ups_based_armor",
       "activate_msg": "You activate your armor.",

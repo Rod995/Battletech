@@ -1,0 +1,8 @@
+[
+    {
+        "type" : "ammunition_type",
+        "id" : "autocannon_2",
+        "name" : "AC/2 Shell",
+        "default" : "autocannon_2"
+    }
+]

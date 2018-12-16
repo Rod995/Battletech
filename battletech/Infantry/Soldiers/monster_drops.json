@@ -1,0 +1,32 @@
+[
+  {
+    "id": "mon_zombie_survivor_death_drops",
+    "type": "item_group",
+    "//": "You may or may not get an essence or magical loot.  Only need to add items since we're referencing an existing itemgroup.",
+    "subtype": "collection",
+    "entries": [
+      { "group": "essence_blood", "prob": 25 },
+      { "group": "magic_items", "prob": 5 },
+      { "group": "magic_consumables", "prob": 5 },
+      { "group": "magic_tools", "prob": 5 },
+      { "group": "magic_books", "prob": 10 }
+    ]
+  },
+  {
+    "id": "archon_drops",
+    "type": "item_group",
+    "//": "chalice-specific loot, plus boss-level essence",
+    "subtype": "collection",
+    "entries": [
+      { "group": "essence_boss", "prob": 100 },
+      { "item": "thunder_sigil", "prob": 100 },
+      { "item": "book_sacrifice", "prob": 50 },
+      { "item": "offering_chalice", "prob": 25 },
+      { "group": "pants", "damage-min": 1, "damage-max": 4 },
+      { "group": "shirts", "damage-min": 1, "damage-max": 4 },
+      { "group": "shoes", "damage-min": 1, "damage-max": 4 },
+      { "group": "jackets", "prob": 20, "damage-min": 1, "damage-max": 4 },
+      { "group": "bags", "prob": 6, "damage-min": 1, "damage-max": 4 }
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": "shell_ac2",
+    "type": "AMMO",
+    "name": "AC/2 Shell",
+    "description": "AC/2 ammo.",
+    "weight": 20159,
+    "volume": 45,
+    "price": 500000,
+    "material": [ "metal", "powder" ],
+    "symbol": "=",
+    "color": "grey",
+    "count": 1,
+    "stack_size": 45,
+    "ammo_type": "autocannon",
+    "damage": 444,
+    "recoil": 130,
+    "effects": [ "COOKOFF", "SHOT", "NEVER_MISFIRES", ]
+  }
+]
+
