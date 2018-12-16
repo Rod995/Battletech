@@ -13,7 +13,7 @@
     "to_hit": -1,
     "bashing": 12,
     "material": [ "steel", "plastic" ],
-    "ranged_damage": 54,
+    "ranged_damage": 267,
     "dispersion": 345,
     "durability": 9,
     "clip_size": 30,
@@ -49,7 +49,7 @@
     "to_hit": -1,
     "bashing": 7,
     "material": [ "steel", "plastic" ],
-    "ranged_damage": 39,
+    "ranged_damage": 76,
     "dispersion": 245,
     "durability": 9,
     "clip_size": 10,
@@ -83,7 +83,7 @@
     "to_hit": -1,
     "bashing": 6,
     "material": [ "steel", "plastic" ],
-    "ranged_damage": 39,
+    "ranged_damage": 51,
     "dispersion": 115,
     "durability": 9,
     "clip_size": 10,
@@ -122,9 +122,11 @@
     "clip_size": 30,
     "symbol": "=",
     "modes": [
-      [ "DEFAULT", "single", 1 ],
-      [ "DOUBLE", "double", 3 ],
-      [ "FINISHER", "killer", 5]
+      [ "DEFAULT", "SINGLE", 1 ],
+      [ "DOUBLE", "DOUBLE", 3 ],
+      [ "FINISHER", "FINISHER", 5 ],
+      [ "ANNIHILATION", "ANNIHILATION", 15 ]
+      [ "THERE IS ONLY 'OPEN FIRE AND RELOAD'", "THERE IS ONLY 'OPEN FIRE AND RELOAD'", 30 ]
     ],
     "range": 16,
     "valid_mod_locations": [
