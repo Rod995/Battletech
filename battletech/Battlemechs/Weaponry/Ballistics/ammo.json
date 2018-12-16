@@ -15,7 +15,7 @@
     "ammo_type": "autocannon",
     "damage": 444,
     "recoil": 130,
-    "effects": [ "COOKOFF", "SHOT", "NEVER_MISFIRES", ]
+    "effects": [ "COOKOFF", "SHOT", "NEVER_MISFIRES" ]
   }
 ]
 
