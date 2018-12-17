@@ -22,5 +22,29 @@
     "clip_size": 45,
     "reload": 100,
     "loudness": 1340
-  }
+  },{
+    "id": "rotary_autocannon_2",
+    "type": "GUN",
+    "symbol": "/",
+    "color": "grey",
+    "name": "Autocannon/2",
+    "description": "The Rotary Autocannon 5 is based only loosely on the Autocannon 5. While it has the same bore, it is capable of firing up to six times as many rounds as its standard cousin, allowing it to deal up to three times the damage of even an Ultra AC/5. The weapon may be used to fire up to six times in a turn, with each additional shot giving the potential for increased damage.",
+    "price": 81750000,
+    "material": "steel",
+    "flags": [ "MOUNTED_GUN" ],
+    "skill": "launcher",
+    "ammo": "shell_ac2",
+    "weight": 5443110,
+    "volume": 66,
+    "bashing": 314,
+    "to_hit": -6,
+    "range": 37,
+    "dispersion": 0,
+    "burst": 6,
+    "sight_dispersion": 10,
+    "durability": 9,
+    "clip_size": 45,
+    "reload": 100,
+    "loudness": 2360
+  },
 ]
