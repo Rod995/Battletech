@@ -10,7 +10,7 @@
 
 Example:
 > RAC/2 has a range of 18. 
-
-`19 * 18 = 342`
-
-* Thus the RAC/2 has a range of 342 tiles.
+> 
+> `19 * 18 = 342`
+> 
+> Thus the RAC/2 has a range of 342 tiles.
