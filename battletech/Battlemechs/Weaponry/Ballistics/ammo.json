@@ -7,7 +7,7 @@
     "weight": 448000,
     "volume": 45,
     "price": 500000,
-    "material": [ "metal", "powder" ],
+    "material": [ "steel", "powder" ],
     "symbol": "=",
     "color": "grey",
     "count": 1,
