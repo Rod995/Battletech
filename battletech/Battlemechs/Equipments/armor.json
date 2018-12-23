@@ -61,7 +61,7 @@
         "qualities": [ [ "COOK", 1 ] ]
     },{
         "type": "vehicle_part",
-        "id": "primitive_armor_half",
+        "id": "primitive_armor_quart",
         "name": "primitive armor quarter-ton",
         "symbol": ")",
         "color": "grey",
@@ -76,7 +76,7 @@
         "damage_reduction": { "all": 15, "cut": 30, "stab": 50 }
     },{
         "type":"GENERIC",
-        "id" : "primitive_armor_half_ton",
+        "id" : "primitive_armor_quart_ton",
         "name" : "primitive armor slab",
         "description" : "A slab of quarter ton armor. Usually for vehicles.",
         "weight" : 500000,
