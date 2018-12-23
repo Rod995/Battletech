@@ -29,6 +29,7 @@ Battletech Megamod for C:DDA. Buildings have had help from Chaosvolt.
 | Constable | :x: |
 | Corona | :x: |
 | Cuchulainn | :x: |
+| Elemental | :heavy_check_mark: |
 | Fa Shih | :x: |
 | Fenrir | :x: |
 | Fenrir II | :x: |
@@ -320,7 +321,7 @@ Battletech Megamod for C:DDA. Buildings have had help from Chaosvolt.
 | Blood Limpet | :x: |
 | Blood Spirit | :x: |
 | Blue Snapper | :x: |
-| Branth | :x: |
+| Branth | :heavy_check_mark: |
 | Bucky Brown | :x: |
 | Burrock | :x: |
 | Canopian Chihuahua | :x: |
