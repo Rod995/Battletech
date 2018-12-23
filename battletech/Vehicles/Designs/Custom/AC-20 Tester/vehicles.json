@@ -1,0 +1,29 @@
+[
+    {
+        "type" : "vehicle",
+        "id" : "bt_ac/20",
+        "name" : "AC/20 Tester",
+        "blueprint" : [
+            ["ooooooo"]
+        ],
+        "parts" : [
+            {"x": 0, "y": 0, "part": "frame_cross"},
+            {"x": 0, "y": 0, "part": "turret_mount"},
+            {"x": 0, "y": 0, "part": "ac20"},
+            {"x": 0, "y": 0, "part": "controls"},
+            {"x": 0, "y": 0, "part": "tank_small"},
+            {"x": 0, "y": 0, "part": "reclining_seat"},
+            {"x": 0, "y": 0, "part": "wheel_steerable"},
+            {"x": 0, "y": 0, "part": "engine_v12"},
+            {"x": -1, "y": 0, "part": "frame_cross"},
+            {"x": -1, "y": 0, "part": "engine_v12"},
+            {"x": -1, "y": 0, "part": "wheel_steerable"},
+            {"x": -1, "y": 0, "part": "battery_car"},
+            {"x": -1, "y": 0, "part": "alternator_truck"},
+            {"x": 0, "y": 0, "part": "primitive_armor_ton"}
+        ],
+        "items" : [
+            {"x": 0, "y": 0, "chance": 40, "items": [ "shell_ac2" ]}
+        ]
+    }
+]
