@@ -2,6 +2,7 @@
   {
     "abstract": "fusion_engine",
     "type": "vehicle_part",
+    "id": "fusion_engine_abstract",
     "name": "Fusion Engine",
     "item": "fusion_engine_standard",
     "difficulty": 12,
