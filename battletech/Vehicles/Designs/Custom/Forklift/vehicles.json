@@ -4,7 +4,9 @@
         "id" : "bt_forklift",
         "name" : "Forklift",
         "blueprint" : [
-            ["ooooooo"]
+            ["x"],
+            ["x"],
+            ["x"]
         ],
         "parts" : [
             {"x": 0, "y": 0, "part": "xlframe_vertical_2"},
@@ -14,7 +16,7 @@
             {"x": 1, "y": 0, "part": "frame_cross"},
             {"x": 1, "y": 0, "part": "reclining_seat"},
             {"x": 1, "y": 0, "part": "roof"},
-            {"x": 1, "y": 0, "part": "tank_small"},
+            {"x": 1, "y": 0, "part": "tank"},
             {"x": 1, "y": 0, "part": "battery_car"},
             {"x": 1, "y": 0, "part": "controls"},
             {"x": 1, "y": 0, "part": "wheel_steerable"},
