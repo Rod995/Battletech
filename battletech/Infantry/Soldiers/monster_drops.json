@@ -1,10 +1,10 @@
 [
   {
-    "id": "mon_zombie_survivor_death_drops",
+    "id": "aerial_branth_infantry_drop",
     "type": "item_group",
     "subtype": "collection",
     "entries": [
-      { "group": "magic_books", "prob": 10 }
+      { "group": "branth_infantry", "prob": 40 }
     ]
   },
   {
