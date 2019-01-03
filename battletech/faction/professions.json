@@ -1,5 +1,14 @@
 [
   {
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "fl_block",
+    "entries": [
+      { "item": "fl_block", "charges": 10 },
+      { "item": "fl_block", "charges": 10 }
+    ]
+  },
+  {
     "type": "profession",
     "ident": "infantryman_bt",
     "name": "Infantryman",
@@ -21,7 +30,7 @@
           "molle_pack"
         ],
         "entries": [
-          { "item": "modularvest", "contents-group": "army_mags_m4" },
+          { "item": "modularvest", "contents-group": "fl_block" },
           { "item": "ear_plugs", "custom-flags": [ "no_auto_equip" ] },
           { "item": "knife_combat", "container-item": "sheath" },
           { "item": "rifle_needler_smg", "ammo-item": "fl_block", "charges": 75 }
