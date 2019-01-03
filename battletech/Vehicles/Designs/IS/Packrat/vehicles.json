@@ -21,7 +21,7 @@
       { "x": -2, "y": 0, "part": "frame_cross" },
       { "x": -2, "y": 1, "part": "frame_cross" },
       { "x": -1, "y": -1, "part": "frame_cross" },
-      { "x": -1, "y": 0, "part": "metal_tank" },
+      { "x": -1, "y": 0, "part": "tank" },
       { "x": -3, "y": 0, "part": "frame_cross" },
       { "x": -3, "y": 1, "part": "frame_cross" },
       { "x": -4, "y": 1, "part": "frame_cross" },
