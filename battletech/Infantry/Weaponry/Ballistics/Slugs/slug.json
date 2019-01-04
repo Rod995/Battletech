@@ -4,7 +4,7 @@
     "name": "Auto-Pistol",
     "name_plural": "Auto-Pistols",
     "skill": "pistol",
-    "ammo": "ap_clip",
+    "ammo": "auto_pistol",
     "id": "pistol_auto",
     "description": "The Auto-Pistol or Automatic Pistol is a fairly standard sidearm for both military and civilian use. Ammunition is fed into the pistol automatically from a detachable magazine, allowing for greater capacity and reload time than a Revolver.",
     "weight": 500,
