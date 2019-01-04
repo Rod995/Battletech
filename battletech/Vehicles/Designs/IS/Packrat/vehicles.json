@@ -60,7 +60,6 @@
       { "x": -4, "y": -1, "part": "frame_cross" },
       { "x": -5, "y": 0, "part": "frame_sw" },
       { "x": -5, "y": 1, "part": "frame_se" },
-      { "x": -3, "y": -1, "part": "primitive_armor_quart" },
       { "x": -3, "y": 2, "part": "primitive_armor_quart" },
       { "x": -4, "y": -1, "part": "primitive_armor_quart" },
       { "x": -5, "y": 0, "part": "primitive_armor_quart" },
