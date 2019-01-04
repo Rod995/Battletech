@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ap_clip",
+    "type": "AMMO",
+    "name": "Auto-Pistol Ammo",
+    "description": "Ammo for Auto-Pistol.",
+    "volume": 0.5,
+    "price": 500000,
+    "material": [ "plastic", "powder" ],
+    "symbol": "=",
+    "color": "grey",
+    "count": 10,
+    "stack_size": 10,
+    "ammo_type": "auto_pistol",
+    "damage": 54,
+    "recoil": 20,
+    "effects": [ "COOKOFF" ]
+  }
+]
+
