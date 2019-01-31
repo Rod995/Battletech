@@ -51,7 +51,7 @@
     "copy-from": "fusion_engine_abstract",
     "type": "vehicle_part",
     "name": "fusion engine test 1",
-    "item": "fusion_engine_test1",
+    "item": "fusion_engine_test_1",
     "looks_like": "motor_small",
     "difficulty": 1,
     "durability": 80,
