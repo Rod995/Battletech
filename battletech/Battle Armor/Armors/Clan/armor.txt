@@ -24,14 +24,14 @@
     "price": 50000000,
     "material": [ "ceramic", "kevlar", "steel" ],
     "weight": 6820,
-    "volume": 36,
+    "volume": 42,
     "to_hit": -3,
     "max_charges": 5000,
     "use_action": {
       "type": "ups_based_armor",
       "activate_msg": "You activate your armor.",
       "deactive_msg": "You deactivate your armor.",
-      "out_of_power_msg": "Your foo runs out of power and deactivates itself."
+      "out_of_power_msg": "Darn. It's dead."
     },
     "gun_data": {
       "type": "rifle",
@@ -43,12 +43,12 @@
     },
     "artifact_data": { "effects_worn": [ "AEP_STR_UP" ] },
     "covers": [ "HEAD", "MOUTH", "EYES", "TORSO", "ARMS", "HANDS", "LEGS", "FEET" ],
-    "storage": 32,
+    "storage": 4,
     "warmth": 30,
-    "environmental_protection": 15,
+    "environmental_protection": 5,
     "encumbrance": 30,
-    "coverage": 100,
-    "material_thickness": 12
+    "coverage": 90,
+    "material_thickness": 8
   },
   {
     "id": "elemental_ON",
@@ -75,7 +75,7 @@
     "price": 50000000,
     "material": [ "ceramic", "kevlar", "steel" ],
     "weight": 6820,
-    "volume": 36,
+    "volume": 40,
     "to_hit": -3,
     "max_charges": 5000,
     "ammo": "h_cell",
@@ -83,7 +83,7 @@
       "type": "ups_based_armor",
       "activate_msg": "You activate the suit.",
       "deactive_msg": "You deactivate the suit..",
-      "out_of_power_msg": "The Battle Armor has run out of hydrogen cells."
+      "out_of_power_msg": "Darn. It's dead."
     },
     "gun_data": {
       "type": "GENERIC",
@@ -93,12 +93,12 @@
       "name": "socks",
       "valid_mod_locations": [ [ "accessories", 4 ] ]
     },
-    "artifact_data": { "effects_worn": [ "AEP_STR_UP" ] },
+    "artifact_data": { "effects_worn": [ "AEP_STR_UP", "AEP_STR_UP" ] },
     "covers": [ "HEAD", "MOUTH", "EYES", "TORSO", "ARMS", "HANDS", "LEGS", "FEET" ],
-    "storage": 32,
+    "storage": 4,
     "warmth": 30,
     "environmental_protection": 15,
-    "encumbrance": 30,
+    "encumbrance": 10,
     "coverage": 100,
     "material_thickness": 12
   }
