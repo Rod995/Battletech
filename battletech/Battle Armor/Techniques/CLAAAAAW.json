@@ -61,7 +61,8 @@
         "mult_bonuses": [ [ "damage", "bash", 3 ] ]
       }
     ],
-    "techniques": [ "tec_CRUSHER", "tec_POWER_PUNCH" ]
+    "techniques": [ "tec_CRUSHER", "tec_POWER_PUNCH" ],
+    "initiate": [ "You stand ready.", "%s stands ready." ]
   }
 ]
 
