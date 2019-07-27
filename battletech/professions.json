@@ -1,0 +1,26 @@
+[
+  {
+    "type": "scenario",
+    "name": "Battletech",
+    "description": "Mechs are cool.",
+    "ident": "battletech",
+    "points": 0,
+    "start_name": "whatever",
+    "professions": [
+      "firestarter"
+    ]
+  },{
+    "type": "profession",
+    "ident": "firestarter",
+    "name": "Gunner",
+    "description": "I dunno.",
+    "points": 1,
+    "items": {
+      "both": {
+        "items": [ "" ],
+      },
+      "male": [ "boxer_shorts" ],
+      "female": [ "bra", "panties" ]
+    }
+  }
+]
