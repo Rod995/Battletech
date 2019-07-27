@@ -6,7 +6,7 @@
         "default" : "ap_clip"
     },{
         "type" : "ammunition_type",
-        "id" : "elephant_gun",
+        "id" : "elephant_bullet",
         "name" : "Auto_Pistol Ammunition",
         "default" : "elephant_bullet"
     }
