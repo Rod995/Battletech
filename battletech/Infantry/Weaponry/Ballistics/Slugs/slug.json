@@ -35,7 +35,7 @@
     "to_hit": 0,
     "bashing": 3,
     "material": [ "steel", "plastic" ],
-    "ranged_damage": 24,
+    "ranged_damage": 70,
     "dispersion": 80,
     "durability": 9,
     "clip_size": 2,
