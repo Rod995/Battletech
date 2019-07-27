@@ -26,7 +26,7 @@
     "color": "grey",
     "count": 2,
     "stack_size": 2,
-    "ammo_type": "elephant_gun",
+    "ammo_type": "elephant_bullet",
     "recoil": 89,
     "effects": [ "COOKOFF" ]
   }
