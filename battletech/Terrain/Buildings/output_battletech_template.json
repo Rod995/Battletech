@@ -17,7 +17,8 @@
                 "n": "f_table",
                 "o": "f_bookcase",
                 "r": "f_rack",
-                "z": "f_crate_c"
+                "z": "f_crate_c",
+                ")": "f_wreckage"
             },
             "rows": [
                 "UUUUUUUUUUUUUUUUUUUUUUUU",
@@ -48,11 +49,9 @@
             "terrain": {
                 " ": "t_dirt",
                 "%": "t_shrub",
-                ")": "t_wreckage",
                 "+": "t_door_c",
                 ",": "t_pavement_y",
                 ".": "t_floor",
-                "/": "t_sky",
                 "2": "t_utility_light",
                 "<": "t_stairs_up",
                 ">": "t_stairs_down",
@@ -84,7 +83,6 @@
                 "u": "t_floor",
                 "x": "t_console_broken",
                 "z": "t_floor",
-                "{": "t_rubble",
                 "}": "t_manhole_cover",
                 "~": "t_rock"
             }
@@ -111,7 +109,8 @@
                 "n": "f_table",
                 "o": "f_bookcase",
                 "r": "f_rack",
-                "z": "f_crate_c"
+                "z": "f_crate_c",
+                ")": "f_wreckage"
             },
             "rows": [
                 "UUUUUUUUUUUUUUUUUUUUU...",
@@ -142,11 +141,9 @@
             "terrain": {
                 " ": "t_dirt",
                 "%": "t_shrub",
-                ")": "t_wreckage",
                 "+": "t_door_c",
                 ",": "t_pavement_y",
                 ".": "t_floor",
-                "/": "t_sky",
                 "2": "t_utility_light",
                 "<": "t_stairs_up",
                 ">": "t_stairs_down",
@@ -178,7 +175,6 @@
                 "u": "t_floor",
                 "x": "t_console_broken",
                 "z": "t_floor",
-                "{": "t_rubble",
                 "}": "t_manhole_cover",
                 "~": "t_rock"
             }
@@ -205,7 +201,8 @@
                 "n": "f_table",
                 "o": "f_bookcase",
                 "r": "f_rack",
-                "z": "f_crate_c"
+                "z": "f_crate_c",
+                ")": "f_wreckage"
             },
             "rows": [
                 "U|||..........||||......",
@@ -236,11 +233,9 @@
             "terrain": {
                 " ": "t_dirt",
                 "%": "t_shrub",
-                ")": "t_wreckage",
                 "+": "t_door_c",
                 ",": "t_pavement_y",
                 ".": "t_floor",
-                "/": "t_sky",
                 "2": "t_utility_light",
                 "<": "t_stairs_up",
                 ">": "t_stairs_down",
@@ -272,7 +267,6 @@
                 "u": "t_floor",
                 "x": "t_console_broken",
                 "z": "t_floor",
-                "{": "t_rubble",
                 "}": "t_manhole_cover",
                 "~": "t_rock"
             }
@@ -299,7 +293,8 @@
                 "n": "f_table",
                 "o": "f_bookcase",
                 "r": "f_rack",
-                "z": "f_crate_c"
+                "z": "f_crate_c",
+                ")": "f_wreckage"
             },
             "rows": [
                 "....h.h.h..........||...",
@@ -330,11 +325,9 @@
             "terrain": {
                 " ": "t_dirt",
                 "%": "t_shrub",
-                ")": "t_wreckage",
                 "+": "t_door_c",
                 ",": "t_pavement_y",
                 ".": "t_floor",
-                "/": "t_sky",
                 "2": "t_utility_light",
                 "<": "t_stairs_up",
                 ">": "t_stairs_down",
@@ -366,7 +359,6 @@
                 "u": "t_floor",
                 "x": "t_console_broken",
                 "z": "t_floor",
-                "{": "t_rubble",
                 "}": "t_manhole_cover",
                 "~": "t_rock"
             }
