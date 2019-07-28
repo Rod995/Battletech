@@ -1,0 +1,23 @@
+[{
+  "id": "atgm_launcher",
+  "type": "GUN",
+  "symbol": "(",
+  "color": "green",
+  "name": "ATGM Launcher",
+  "description": "It fires SRMs, piss off.",
+  "price": 9100000,
+  "material": "hardsteel",
+  "skill": "launcher",
+  "ammo": "srm",
+  "weight": 25844,
+  "volume": 35,
+  "bashing": 12,
+  "to_hit": -6,
+  "range": 15,
+  "dispersion": 100,
+  "sight_dispersion": 60,
+  "durability": 9,
+  "clip_size": 1,
+  "reload": 100,
+  "loudness": 200
+}]

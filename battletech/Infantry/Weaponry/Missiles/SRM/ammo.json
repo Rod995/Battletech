@@ -1,0 +1,28 @@
+[{
+  "type": "AMMO",
+  "id": "atgm_heat",
+  "price": 70000,
+  "name": "anti-tank guided missile",
+  "symbol": "=",
+  "color": "dark_gray",
+  "description": "A tube-launched, optically tracked, wire-guided missile.  Designed to be highly effective against vehicles and structures.",
+  "material": [
+    "steel",
+    "powder" 
+  ],
+  "volume": 5,
+  "weight": 3300,
+  "bashing": 1,
+  "ammo_type": "atgm",
+  "damage": 800,
+  "pierce": 225,
+  "range": 100,
+  "dispersion": 0,
+  "recoil": 6000,
+  "count": 1,
+  "effects": [
+    "COOKOFF",
+    "EXPLOSIVE",
+    "NEVER_MISFIRES"
+  ]
+}]
