@@ -28,7 +28,7 @@
   "vision_night": 400,
   "revert_to_itype": "srm_infantry",
   "starting_ammo": {
-    "srm": 1
+    "srm_missile": 1
   },
   "special_attacks": [
     [
