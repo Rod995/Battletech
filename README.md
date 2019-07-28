@@ -5,8 +5,7 @@ Battletech Megamod for C:DDA. Buildings have had help from Chaosvolt.
 In your launcher folder, go to the data/mods.json file.
 Add 
 ```
-,
-  {
+  ,{
     "type": "direct_download",
     "ident": "battletech",
     "name": "Battletech",
