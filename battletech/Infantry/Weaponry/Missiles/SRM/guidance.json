@@ -1,8 +1,8 @@
 [{
   "id": "mon_srm",
   "type": "MONSTER",
-  "name": "revenant rocket",
-  "description": "A revenant's homing missile, working its way towards you.  If only you could disable it . . .",
+  "name": "srm rocket",
+  "description": "srm",
   "default_faction": "factionless",
   "species": [
     "ROBOT"
@@ -26,7 +26,7 @@
   "armor_cut": 5,
   "vision_day": 477,
   "vision_night": 400,
-  "revert_to_itype": "bot_manhack_missile",
+  "revert_to_itype": "srm_infantry",
   "starting_ammo": {
     "srm": 1
   },
