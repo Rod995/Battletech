@@ -1,5 +1,24 @@
 # Battletech
 Battletech Megamod for C:DDA. Buildings have had help from Chaosvolt.
+
+## How do I add the mod to the Launcher?
+In your launcher folder, go to the data/mods.json file.
+Add 
+```
+,
+  {
+    "type": "direct_download",
+    "ident": "battletech",
+    "name": "Battletech",
+    "author": "Rod995",
+    "description": "ayy lmao mechs",
+    "size": 106140,
+    "url": "https://github.com/Rod995/Battletech/archive/master.zip",
+    "homepage": "https://github.com/Rod995/Battletech"
+  }
+```
+to the end of the list.
+
 # Things to Add
 - [ ] Battle Armor
 - [ ] Battle Armor Weaponry
