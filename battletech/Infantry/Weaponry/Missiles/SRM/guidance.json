@@ -1,0 +1,57 @@
+[{
+  "id": "mon_srm",
+  "type": "MONSTER",
+  "name": "revenant rocket",
+  "description": "A revenant's homing missile, working its way towards you.  If only you could disable it . . .",
+  "default_faction": "factionless",
+  "species": [
+    "ROBOT"
+  ],
+  "diff": 12,
+  "size": "TINY",
+  "hp": 5,
+  "speed": 1100,
+  "material": [
+    "steel"
+  ],
+  "symbol": "/",
+  "color": "cyan",
+  "aggression": 100,
+  "morale": 100,
+  "melee_skill": 0,
+  "melee_dice": 0,
+  "melee_dice_sides": 0,
+  "dodge": 0,
+  "armor_bash": 5,
+  "armor_cut": 5,
+  "vision_day": 477,
+  "vision_night": 400,
+  "revert_to_itype": "bot_manhack_missile",
+  "starting_ammo": {
+    "srm": 1
+  },
+  "special_attacks": [
+    [
+      "KAMIKAZE",
+      0
+    ],
+    [
+      "DISAPPEAR",
+      300
+    ]
+  ],
+  "death_drops": "srm_drops",
+  "death_function": [
+    "DISINTEGRATE"
+  ],
+  "flags": [
+    "SEES",
+    "PATH_AVOID_DANGER_2",
+    "PRIORITIZE_TARGETS",
+    "FLIES",
+    "NOHEAD",
+    "ELECTRONIC",
+    "NO_BREATHE",
+    "INTERIOR_AMMO"
+  ]
+}]

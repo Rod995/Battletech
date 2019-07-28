@@ -1,10 +1,10 @@
 [{
-  "id": "atgm_launcher",
+  "id": "srm_infantry",
   "type": "GUN",
   "symbol": "(",
   "color": "green",
-  "name": "ATGM Launcher",
-  "description": "It fires SRMs, piss off.",
+  "name": "SRM Launcher",
+  "description": "It fires SRMs, piss off. \n Activate it for a homing attack, if you dare. Most do.",
   "price": 9100000,
   "material": "hardsteel",
   "skill": "launcher",
@@ -19,5 +19,16 @@
   "durability": 9,
   "clip_size": 1,
   "reload": 100,
+  "use_action": {
+    "type": "place_monster",
+    "monster_id": "mon_srm",
+    "friendly_msg": "The missile takes off uncertainly!",
+    "hostile_msg": "The hell? It's looping back!",
+    "difficulty": 0,
+    "moves": 75,
+    "place_randomly": true,
+    "skill1": "electronics",
+    "skill2": "computer"
+  },
   "loudness": 200
 }]

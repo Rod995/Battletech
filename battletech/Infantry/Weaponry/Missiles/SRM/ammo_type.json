@@ -1,6 +1,6 @@
 [{
   "type": "ammunition_type",
-  "id": "atgm" ammunition_typeammo,
-  "name": "anti-tank guided missile",
-  "default": "atgm_heat" AMMO
+  "id": "srm",
+  "name": "short-range missile",
+  "default": "srm_missile"
 }]

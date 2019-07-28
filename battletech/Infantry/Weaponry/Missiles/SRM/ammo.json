@@ -1,11 +1,11 @@
 [{
   "type": "AMMO",
-  "id": "atgm_heat",
-  "price": 70000,
-  "name": "anti-tank guided missile",
+  "id": "srm_missile",
+  "price": 150000,
+  "name": "SRM",
   "symbol": "=",
   "color": "dark_gray",
-  "description": "A tube-launched, optically tracked, wire-guided missile.  Designed to be highly effective against vehicles and structures.",
+  "description": "Clanners can't block this!",
   "material": [
     "steel",
     "powder" 
@@ -13,7 +13,7 @@
   "volume": 5,
   "weight": 3300,
   "bashing": 1,
-  "ammo_type": "atgm",
+  "ammo_type": "srm",
   "damage": 800,
   "pierce": 225,
   "range": 100,
