@@ -26,23 +26,16 @@
   "armor_cut": 5,
   "vision_day": 477,
   "vision_night": 400,
-  "revert_to_itype": "srm_infantry",
-  "starting_ammo": {
-    "srm_missile": 1
-  },
+  "revert_to_itype": "srm_missile",
   "special_attacks": [
     [
       "KAMIKAZE",
       0
-    ],
-    [
-      "DISAPPEAR",
-      300
     ]
   ],
   "death_drops": "srm_drops",
   "death_function": [
-    "DISINTEGRATE"
+    "EXPLODE"
   ],
   "flags": [
     "SEES",
@@ -51,7 +44,6 @@
     "FLIES",
     "NOHEAD",
     "ELECTRONIC",
-    "NO_BREATHE",
-    "INTERIOR_AMMO"
+    "NO_BREATHE"
   ]
 }]
