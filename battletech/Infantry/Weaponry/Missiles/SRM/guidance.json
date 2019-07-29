@@ -13,7 +13,7 @@
     "morale": 100,
     "luminance": 5,
     "death_drops": "srm_drops",
-    "death_function": [ "BROKEN_AMMO" ],
+    "death_function": [ "DETONATE" ],
     "flags": [ "SEES", "FLIES", "NOHEAD", "ELECTRONIC", "NO_BREATHE", "INTERIOR_AMMO" ]
   },{
   "id": "mon_srm",
