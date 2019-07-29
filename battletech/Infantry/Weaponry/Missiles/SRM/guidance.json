@@ -34,7 +34,9 @@
     "armor_bash": 1,
     "armor_cut": 6,
     "starting_ammo": { "srm_missile": 1 },
-    "special_attacks": [ [ "KAMIKAZE", 0 ] ],
+    "special_attack": [
+    { "type": "kamikaze", "cooldown": 0, "max_range": 1 }
+],
     "flags": [
       "SEES",
       "FLIES",
