@@ -36,15 +36,14 @@
   ],
   "flags": [
     "SEES",
-    "PRIORITIZE_TARGETS",
     "FLIES",
     "NOHEAD",
     "ELECTRONIC",
-    "ATTACKMON",
     "FLAMMABLE",
     "HARDTOSHOOT",
     "LOUDMOVES",
     "SWARMS",
+    "INTERIOR_AMMO",
     "NO_BREATHE"
   ]
 }]
