@@ -1,4 +1,5 @@
-[{
+[
+  {
     "abstract": "base_srm",
     "type": "MONSTER",
     "name": "srm",
@@ -15,36 +16,36 @@
     "death_drops": "srm_drops",
     "death_function": [ "DETONATE" ],
     "flags": [ "SEES", "FLIES", "NOHEAD", "ELECTRONIC", "NO_BREATHE", "INTERIOR_AMMO" ]
-  },{
-  "id": "mon_srm",
-  "copy-from": "base_srm",
-  "type": "MONSTER",
-  "name": "srm rocket",
-  "description": "srm",
-  "diff": 30,
-  "hp": 5,
-  "speed": 480,
-  "material": [
-    "steel"
-  ],
-  "symbol": "/",
-  "color": "cyan",
-  "aggression": 100,
-  "morale": 100,
-  "armor_bash": 1,
-  "armor_cut": 6,
-  "starting_ammo": { "srm_missile": 1 },
-  "special_attacks": [ [ "KAMIKAZE", 0 ] ],
-  "flags": [
-    "SEES",
-    "FLIES",
-    "NOHEAD",
-    "ELECTRONIC",
-    "FLAMMABLE",
-    "HARDTOSHOOT",
-    "LOUDMOVES",
-    "SWARMS",
-    "INTERIOR_AMMO",
-    "NO_BREATHE"
-  ]
-}]
+  },
+  {
+    "id": "mon_srm",
+    "copy-from": "base_srm",
+    "type": "MONSTER",
+    "name": "srm rocket",
+    "description": "srm",
+    "diff": 30,
+    "hp": 5,
+    "speed": 480,
+    "material": [ "steel" ],
+    "symbol": "/",
+    "color": "cyan",
+    "aggression": 100,
+    "morale": 100,
+    "armor_bash": 1,
+    "armor_cut": 6,
+    "starting_ammo": { "srm_missile": 1 },
+    "special_attacks": [ [ "KAMIKAZE", 0 ] ],
+    "flags": [
+      "SEES",
+      "FLIES",
+      "NOHEAD",
+      "ELECTRONIC",
+      "FLAMMABLE",
+      "HARDTOSHOOT",
+      "LOUDMOVES",
+      "SWARMS",
+      "INTERIOR_AMMO",
+      "NO_BREATHE"
+    ]
+  }
+]
