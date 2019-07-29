@@ -1,4 +1,16 @@
 [
+    {
+    "type": "GENERIC",
+    "id": "C3_master",
+    "copy-from": "electronics_controls",
+    "name": "'Command. Control. Communicate.' console",
+    "description": "A vehicle instrument panel with various gauges and switches.  Useful for crafting.",
+    "weight": 1311,
+    "to_hit": -4,
+    "material": [ "plastic" ],
+    "volume": 6,
+    "price": 4000
+  },
   {
     "type": "vehicle_part",
     "id": "C3_master",
