@@ -8,9 +8,9 @@
     "ROBOT"
   ],
   "diff": 12,
-  "size": "TINY",
+  "size": "SMALL",
   "hp": 5,
-  "speed": 1100,
+  "speed": 320,
   "material": [
     "steel"
   ],
@@ -29,7 +29,7 @@
   "revert_to_itype": "srm_missile",
   "special_attacks": [
     [
-      "KAMIKAZE",
+      "SUICIDE",
       0
     ]
   ],
@@ -44,6 +44,11 @@
     "FLIES",
     "NOHEAD",
     "ELECTRONIC",
+    "ATTACKMON",
+    "FLAMMABLE",
+    "HARDTOSHOOT",
+    "LOUDMOVES",
+    "SWARMS",
     "NO_BREATHE"
   ]
 }]
