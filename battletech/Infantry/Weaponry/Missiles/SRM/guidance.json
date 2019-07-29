@@ -7,39 +7,35 @@
   "species": [
     "ROBOT"
   ],
-  "diff": 12,
+  "diff": 30,
   "size": "SMALL",
   "hp": 5,
-  "speed": 320,
+  "speed": 240,
   "material": [
     "steel"
   ],
   "symbol": "/",
   "color": "cyan",
+  "attack_cost": 0,
   "aggression": 100,
   "morale": 100,
   "melee_skill": 0,
   "melee_dice": 0,
   "melee_dice_sides": 0,
-  "dodge": 0,
+  "dodge": 1,
   "armor_bash": 5,
   "armor_cut": 5,
   "vision_day": 477,
   "vision_night": 400,
-  "revert_to_itype": "srm_missile",
-  "special_attacks": [
-    [
-      "SUICIDE",
-      0
-    ]
-  ],
+  "starting_ammo": { "srm_missile": 1 },
+  "special_attacks": [ [ "KAMIKAZE", 0 ] ],
+  "anger_triggers": [ "SOUND" ],
   "death_drops": "srm_drops",
   "death_function": [
-    "EXPLODE"
+    "FLAME_EXPLOSION"
   ],
   "flags": [
     "SEES",
-    "PATH_AVOID_DANGER_2",
     "PRIORITIZE_TARGETS",
     "FLIES",
     "NOHEAD",
