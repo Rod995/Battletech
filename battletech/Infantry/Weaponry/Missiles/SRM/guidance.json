@@ -13,7 +13,7 @@
     "aggression": 100,
     "morale": 100,
     "luminance": 5,
-    "death_function": [ "BROKEN", "EXPLODE" ],
+    "death_function": [ "EXPLODE" ],
     "death_drops": "srm_drops",
     "ranges": [ [ 0, 30, "DEFAULT" ] ],
     "flags": [ "SEES", "FLIES", "NOHEAD", "ELECTRONIC", "NO_BREATHE", "INTERIOR_AMMO" ]
@@ -34,7 +34,7 @@
     "morale": 100,
     "armor_bash": 1,
     "armor_cut": 6,
-    "starting_ammo": { "srm_missile": 1 },
+    "starting_ammo": { "srm_missile_active": 1 },
     "special_attacks": [
       {
         "type": "gun",
@@ -57,17 +57,6 @@
         "range": 30
       }
     ],
-    "flags": [
-      "SEES",
-      "FLIES",
-      "NOHEAD",
-      "ELECTRONIC",
-      "FLAMMABLE",
-      "HARDTOSHOOT",
-      "LOUDMOVES",
-      "SWARMS",
-      "INTERIOR_AMMO",
-      "NO_BREATHE"
-    ]
+    "revert_to_itype": "srm_missile_active",
   }
 ]

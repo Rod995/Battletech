@@ -27,7 +27,7 @@
     },
     "effects": [ "COOKOFF", "EXPLOSIVE", "NEVER_MISFIRES" ]
   },{
-    "type": "AMMO",
+    "type": "TOOL",
     "id": "srm_missile_active",
     "price": 150000,
     "name": "Short-Range Missile (Armed)",
@@ -50,8 +50,8 @@
       "sound_volume": 0,
       "sound_msg": "Tick.",
       "no_deactivate_msg": "You've already rigged the missile to explode. Go away.",
-      "explosion": { "power": 2000 }
+      "explosion": { "power": 2000, "shrapnel": 212 }
     },
-    "effects": [ "COOKOFF", "EXPLOSIVE", "NEVER_MISFIRES" ]
+    "flags": [ "BOMB", "TRADER_AVOID" ],
   }
 ]
