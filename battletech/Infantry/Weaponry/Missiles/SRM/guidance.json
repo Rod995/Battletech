@@ -57,6 +57,6 @@
         "range": 30
       }
     ],
-    "revert_to_itype": "srm_missile_active",
+    "revert_to_itype": "srm_missile_active"
   }
 ]
