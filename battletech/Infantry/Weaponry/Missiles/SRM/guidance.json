@@ -32,7 +32,7 @@
   "anger_triggers": [ "SOUND" ],
   "death_drops": "srm_drops",
   "death_function": [
-    "FLAME_EXPLOSION"
+    "EXPLODE"
   ],
   "flags": [
     "SEES",
