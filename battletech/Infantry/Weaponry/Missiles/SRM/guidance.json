@@ -14,7 +14,6 @@
     "morale": 100,
     "luminance": 5,
     "death_drops": "srm_drops",
-    "death_function": [ "DETONATE" ],
     "ranges": [ [ 0, 30, "DEFAULT" ] ],
     "flags": [ "SEES", "FLIES", "NOHEAD", "ELECTRONIC", "NO_BREATHE", "INTERIOR_AMMO" ]
   },
