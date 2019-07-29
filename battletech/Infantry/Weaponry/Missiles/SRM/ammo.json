@@ -18,7 +18,14 @@
     "dispersion": 0,
     "recoil": 6000,
     "count": 1,
-    "use_action": "missile",
+    "use_action": {
+      "target": "srm_missile_active",
+      "msg": "You rig the missile to explode.",
+      "target_charges": 1,
+      "active": true,
+      "menu_text": "Rig to explode?",
+      "type": "transform"
+    },
     "effects": [ "COOKOFF", "EXPLOSIVE", "NEVER_MISFIRES" ]
   },{
     "type": "AMMO",
