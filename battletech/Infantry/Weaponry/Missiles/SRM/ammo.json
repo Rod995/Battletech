@@ -21,7 +21,6 @@
     "use_action": {
       "target": "srm_missile_active",
       "msg": "You rig the missile to explode.",
-      "target_charges": 1,
       "active": true,
       "menu_text": "Rig to explode?",
       "type": "transform"
