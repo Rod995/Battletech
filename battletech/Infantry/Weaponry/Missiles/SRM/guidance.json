@@ -13,6 +13,7 @@
     "aggression": 100,
     "morale": 100,
     "luminance": 5,
+    "death_function": [ "BROKEN", "EXPLODE" ],
     "death_drops": "srm_drops",
     "ranges": [ [ 0, 30, "DEFAULT" ] ],
     "flags": [ "SEES", "FLIES", "NOHEAD", "ELECTRONIC", "NO_BREATHE", "INTERIOR_AMMO" ]
