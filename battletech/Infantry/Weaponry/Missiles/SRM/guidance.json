@@ -26,7 +26,7 @@
     "description": "srm",
     "diff": 30,
     "hp": 5,
-    "speed": 1600,
+    "speed": 650,
     "material": [ "steel" ],
     "symbol": "/",
     "color": "cyan",
