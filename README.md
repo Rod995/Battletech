@@ -273,6 +273,13 @@ to the end of the list.
 
 | Ballistics-Shotguns | Status |
 | ------------ | ------ |
+| Auto-Shotgun | :x: |
+| Avenger CCW  | :x: |
+| Combat Shotgun | :x: |
+| Double-Barreled Shotgun | :x: |
+| Pump-Action Shotgun | :x: |
+| Ceres Arms Crowdbuster | :x: |
+| Buccaneer Gel Gun | :x: |
 
 | Ballistics-Support | Status |
 | ------------ | ------ |
