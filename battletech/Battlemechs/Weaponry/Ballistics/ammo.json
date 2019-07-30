@@ -16,19 +16,14 @@
     "damage": 444,
     "recoil": 130,
     "explosion": {
-    	"power" : 100,
-    	"distance_factor" : 0.9,      
-    	"fire" : true,                
-    	"shrapnel": 200,
-    	"shrapnel" : {
-        	"casing_mass" : 200,
-        	"fragment_mass" : 0.5,
-        	"recovery" : 10,
-       		"drop" : "nail"
-        }
-},
+      "power": 100,
+      "distance_factor": 0.9,
+      "fire": true,
+      "shrapnel": 200,
+      "shrapnel": { "casing_mass": 200, "fragment_mass": 0.5, "recovery": 10, "drop": "nail" }
+    },
     "effects": [ "COOKOFF", "SHOT", "NEVER_MISFIRES", "BEANBAG", "CUSTOM_EXPLOSION" ]
-}
+  },
   {
     "id": "shell_ac5",
     "type": "AMMO",
@@ -46,19 +41,15 @@
     "damage": 1111,
     "recoil": 325,
     "explosion": {
-    	"power" : 100,
-    	"distance_factor" : 0.9,      
-    	"fire" : true,                
-    	"shrapnel": 200,
-    	"shrapnel" : {
-        	"casing_mass" : 200,
-        	"fragment_mass" : 0.5,
-        	"recovery" : 10,
-       		"drop" : "nail"
-    }
-},
+      "power": 100,
+      "distance_factor": 0.9,
+      "fire": true,
+      "shrapnel": 200,
+      "shrapnel": { "casing_mass": 200, "fragment_mass": 0.5, "recovery": 10, "drop": "nail" }
+    },
     "effects": [ "COOKOFF", "SHOT", "NEVER_MISFIRES", "BEANBAG", "CUSTOM_EXPLOSION" ]
-  },{
+  },
+  {
     "id": "shell_ac10",
     "type": "AMMO",
     "name": "AC/10 Shell",
@@ -75,19 +66,15 @@
     "damage": 2222,
     "recoil": 450,
     "explosion": {
-    	"power" : 100,
-    	"distance_factor" : 0.9,      
-    	"fire" : true,                
-    	"shrapnel": 200,
-    	"shrapnel" : {
-        	"casing_mass" : 200,
-        	"fragment_mass" : 0.5,
-        	"recovery" : 10,
-       		"drop" : "nail"
-    }
-},
+      "power": 100,
+      "distance_factor": 0.9,
+      "fire": true,
+      "shrapnel": 200,
+      "shrapnel": { "casing_mass": 200, "fragment_mass": 0.5, "recovery": 10, "drop": "nail" }
+    },
     "effects": [ "COOKOFF", "SHOT", "NEVER_MISFIRES", "BEANBAG", "CUSTOM_EXPLOSION" ]
-  },{
+  },
+  {
     "id": "shell_ac20",
     "type": "AMMO",
     "name": "AC/20 Shell",
@@ -104,18 +91,12 @@
     "damage": 4444,
     "recoil": 450,
     "explosion": {
-    	"power" : 100,
-    	"distance_factor" : 0.9,      
-    	"fire" : true,                
-    	"shrapnel": 200,
-    	"shrapnel" : {
-        	"casing_mass" : 200,
-        	"fragment_mass" : 0.5,
-        	"recovery" : 10,
-       		"drop" : "nail"
-    }
-},
+      "power": 100,
+      "distance_factor": 0.9,
+      "fire": true,
+      "shrapnel": 200,
+      "shrapnel": { "casing_mass": 200, "fragment_mass": 0.5, "recovery": 10, "drop": "nail" }
+    },
     "effects": [ "COOKOFF", "SHOT", "NEVER_MISFIRES", "BEANBAG", "CUSTOM_EXPLOSION" ]
   }
 ]
-
