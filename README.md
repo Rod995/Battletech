@@ -269,7 +269,7 @@ to the end of the list.
 | 'Thunderstroke' Gauss Rifle | :x: |
 | 'Thunderstroke II' Gauss Rifle | :x: |
 | Auto-Rifle | :x: |
-| Elephant Gun | :x: |
+| Elephant Gun | :heavy_check_mark: |
 
 | Ballistics-Shotguns | Status |
 | ------------ | ------ |
@@ -320,6 +320,9 @@ to the end of the list.
 
 | Missile-Support | Status |
 | ------------ | ------ |
+| SRM Launcher | :heavy_check_mark: |
+| D-SRM Launcher | :heavy_check_mark: |
+| Light Two-shot SRM | :x: |
 
 | Misc-Support | Status |
 | ------------ | ------ |
@@ -333,15 +336,17 @@ to the end of the list.
 
 ### Infantry Misc
 
-```TBA```
+| Professions | Status |
+| ----------- | ------ |
+| Infantryman | :heavy_check_mark: |
+| Short Range Missile Carrier | :heavy_check_mark: |
+| Double Short Range Missile Carrier | :heavy_check_mark: |
 
 ## Tech
 
 | Tech | Status |
 | ---- | ------ |
 | Helm Memory Core | :x: |
-| Fusion Engine | :x: |
-| Mechanical Jump Booster | :x: |
 
 ## Alien Flora and Fauna
 ### Quick Notice
