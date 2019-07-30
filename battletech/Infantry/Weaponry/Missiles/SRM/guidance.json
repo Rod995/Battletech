@@ -34,15 +34,15 @@
     "morale": 100,
     "armor_bash": 1,
     "armor_cut": 6,
-    "starting_ammo": { "srm_missile": 1 },
     "special_attacks": [
       {
         "type": "gun",
-        "move_cost": 10,
+        "move_cost": 0,
         "gun_type": "internal_srm",
         "fake_skills": [ [ "gun", 10 ], [ "pistol", 10 ] ],
         "fake_dex": 14,
         "range": 2,
+        "max_ammo": 1,
         "ranges": [ [ 0, 3, "BURST" ] ]
       }
     ],
