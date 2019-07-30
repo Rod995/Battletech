@@ -16,8 +16,8 @@
     "damage": 444,
     "recoil": 130,
     "explosion": {
-      "power": 100,
-      "distance_factor": 0.9,
+      "power": 50,
+      "distance_factor": 0.2,
       "fire": true,
       "shrapnel": 200
     },
@@ -41,7 +41,7 @@
     "recoil": 325,
     "explosion": {
       "power": 100,
-      "distance_factor": 0.9,
+      "distance_factor": 0.4,
       "fire": true,
       "shrapnel": 200
     },
@@ -64,8 +64,8 @@
     "damage": 2222,
     "recoil": 450,
     "explosion": {
-      "power": 100,
-      "distance_factor": 0.9,
+      "power": 200,
+      "distance_factor": 0.4,
       "fire": true,
       "shrapnel": 200
     },
@@ -88,8 +88,8 @@
     "damage": 4444,
     "recoil": 450,
     "explosion": {
-      "power": 100,
-      "distance_factor": 0.9,
+      "power": 400,
+      "distance_factor": 0.4,
       "fire": true,
       "shrapnel": 200
     },
