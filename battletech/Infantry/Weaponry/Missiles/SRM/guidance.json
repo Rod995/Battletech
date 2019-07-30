@@ -34,7 +34,7 @@
     "morale": 100,
     "armor_bash": 1,
     "armor_cut": 6,
-    "starting_ammo": { "srm_missile_active": 1 },
+    "starting_ammo": { "internal_srm": 1 },
     "special_attacks": [
       {
         "type": "gun",
