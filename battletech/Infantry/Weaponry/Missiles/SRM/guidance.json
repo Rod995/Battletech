@@ -16,7 +16,7 @@
     "death_function": [ "EXPLODE" ],
     "death_drops": "srm_drops",
     "ranges": [ [ 0, 30, "DEFAULT" ] ],
-    "flags": [ "SEES", "SWARM", "FLIES", "NOHEAD", "ELECTRONIC", "NO_BREATHE", "INTERIOR_AMMO" ]
+    "flags": [ "SEES", "SWARMS", "FLIES", "NOHEAD", "ELECTRONIC", "NO_BREATHE", "INTERIOR_AMMO" ]
   },
   {
     "id": "mon_srm",
