@@ -34,27 +34,16 @@
     "morale": 100,
     "armor_bash": 1,
     "armor_cut": 6,
-    "starting_ammo": { "internal_srm": 1 },
+    "starting_ammo": { "srm_missile": 1 },
     "special_attacks": [
       {
         "type": "gun",
-        "cooldown": 1,
+        "move_cost": 10,
         "gun_type": "internal_srm",
-        "ammo_type": "srm_missile_active",
-        "fake_skills": [ [ "gun", 20 ], [ "smg", 20 ] ],
-        "fake_dex": 20,
-        "move_cost": 20,
-        "laser_lock": true,
-        "require_targeting_player": true,
-        "require_targeting_npc": true,
-        "require_targeting_monster": true,
-        "targeting_cost": 10,
-        "targeting_timeout_extend": -1,
-        "targeting_sound": "\"Hostile Detected.\"",
-        "targeting_volume": 10,
-        "max_ammo": 1,
-        "no_ammo_sound": "I HAVE NO SPEAKER. \n IF YOU HEAR THIS, THE WORLD IS ENDING.",
-        "range": 30
+        "fake_skills": [ [ "gun", 10 ], [ "pistol", 10 ] ],
+        "fake_dex": 14,
+        "range": 3,
+        "ranges": [ [ 0, 3, "BURST" ] ]
       }
     ],
     "revert_to_itype": "srm_missile_active"
