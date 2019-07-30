@@ -42,7 +42,8 @@
           { "item": "modularvest", "contents-group": "fl_block" },
           { "item": "ear_plugs", "custom-flags": [ "no_auto_equip" ] },
           { "item": "knife_combat", "container-item": "sheath" },
-          { "item": "rifle_needler_smg", "ammo-item": "fl_block", "charges": 75 }
+          { "item": "fl_block", "charges": 120 },
+          { "item": "rifle_needler_smg", "ammo-item": "fl_block", "charges": 30 }
         ]
       },
       "male": [ "boxer_shorts", "fl_block" ],
@@ -74,7 +75,8 @@
         "entries": [
           { "item": "ear_plugs", "custom-flags": [ "no_auto_equip" ] },
           { "item": "knife_combat", "container-item": "sheath" },
-          { "item": "srm_infantry", "ammo-item": "srm_missile", "charges": 20 }
+          { "item": "srm_missile", "charges": 20 },
+          { "item": "srm_infantry", "ammo-item": "srm_missile", "charges": 1 }
         ]
       },
       "male": [ "boxer_shorts", "srm_missile" ],
@@ -106,7 +108,8 @@
         "entries": [
           { "item": "ear_plugs", "custom-flags": [ "no_auto_equip" ] },
           { "item": "knife_combat", "container-item": "sheath" },
-          { "item": "double_srm_infantry", "ammo-item": "srm_missile", "charges": 20 }
+          { "item": "srm_missile", "charges": 20 },
+          { "item": "double_srm_infantry", "ammo-item": "srm_missile", "charges": 2 }
         ]
       },
       "male": [ "boxer_shorts", "srm_missile" ],
