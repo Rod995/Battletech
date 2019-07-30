@@ -1,5 +1,5 @@
 # Battletech
-Battletech Megamod for C:DDA. Buildings have had help from Chaosvolt.
+Battletech Megamod for C:DDA. Buildings have had """help""" from Chaosvolt.
 
 ## How do I add the mod to the Launcher?
 In your launcher folder, go to the data/mods.json file.
@@ -276,10 +276,24 @@ to the end of the list.
 
 | Ballistics-Support | Status |
 | ------------ | ------ |
+| Light Machine Gun  | :x: |
+| Portable Machine Gun | :x: |
+| Semi-Portable Machine Gun | :x: |
+| Semi-Portable Autocannon | :x: |
+| Support Machine Gun | :x: |
+| Bearhunter Super-Heavy Autocannon | :x: |
+| Heavy Mortar | :x: |
+| Light Mortar | :x: |
 | 'Firedrake' Support Needler | :heavy_check_mark: |
+| Grand Mauler Gauss Cannon | :x: |
+| Magshot Gauss Rifle | :x: |
+| Tsunami Heavy Gauss Rifle | :x: |
+| David Light Gauss Rifle | :x: |
+| King David Light Gauss Rifle | :x: |
+| Heavy Recoilless Rifle | :x: |
+| Medium Recoilless Rifle | :x: |
+| Light Recoilless Rifle | :x: |
 
-| Ballistics-Machine Guns | Status |
-| ------------ | ------ |
 
 | Energy-Pistol | Status |
 | ------------ | ------ |
