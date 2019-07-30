@@ -40,7 +40,7 @@
         "type": "gun",
         "cooldown": 1,
         "gun_type": "internal_srm",
-        "ammo_type": "srm_missile",
+        "ammo_type": "srm_missile_active",
         "fake_skills": [ [ "gun", 20 ], [ "smg", 20 ] ],
         "fake_dex": 20,
         "move_cost": 20,
