@@ -27,6 +27,7 @@
       "hostile_msg": "The hell? It's looping back!",
       "difficulty": 0,
       "moves": 75,
+      "need_charges": 1,
       "place_randomly": true,
       "skill1": "electronics",
       "skill2": "computer"

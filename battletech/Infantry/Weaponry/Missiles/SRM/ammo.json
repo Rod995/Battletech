@@ -19,39 +19,13 @@
     "recoil": 6000,
     "count": 1,
     "use_action": {
-      "target": "srm_missile_active",
-      "msg": "You rig the missile to explode.",
-      "active": true,
-      "menu_text": "Rig to explode?",
-      "type": "transform"
-    },
-    "effects": [ "COOKOFF", "EXPLOSIVE", "NEVER_MISFIRES" ]
-  },{
-    "type": "TOOL",
-    "id": "srm_missile_active",
-    "price": 150000,
-    "name": "Short-Range Missile (Armed)",
-    "symbol": "=",
-    "color": "dark_gray",
-    "description": "Rigged to explode.",
-    "material": [ "steel", "powder" ],
-    "volume": 5,
-    "weight": 3300,
-    "bashing": 1,
-    "ammo_type": "srm",
-    "damage": 800,
-    "pierce": 225,
-    "range": 100,
-    "dispersion": 0,
-    "recoil": 6000,
-    "count": 1,
-    "use_action": {
       "type": "explosion",
       "sound_volume": 0,
       "sound_msg": "Tick.",
       "no_deactivate_msg": "Boom, too late.",
       "explosion": { "power": 2000, "shrapnel": 212 }
     },
-    "flags": [ "BOMB", "TRADER_AVOID" ]
+    "effects": [ "COOKOFF", "EXPLOSIVE", "NEVER_MISFIRES" ],
+    "flags": [ "BOMB" ]
   }
 ]

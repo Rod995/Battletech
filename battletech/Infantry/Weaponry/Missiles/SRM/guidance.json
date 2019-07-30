@@ -46,6 +46,6 @@
         "ranges": [ [ 0, 3, "BURST" ] ]
       }
     ],
-    "revert_to_itype": "srm_missile_active"
+    "revert_to_itype": "srm_missile"
   }
 ]
