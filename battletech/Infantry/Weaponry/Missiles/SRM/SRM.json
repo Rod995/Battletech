@@ -67,6 +67,10 @@
       "skill1": "electronics",
       "skill2": "computer"
     },
+    "modes": [
+    [ "DEFAULT", "semi-auto", 1 ],
+    [ "DOUBLE", "double", 3, [ "SIMULTANEOUS" ] ]
+],
     "loudness": 200
   },
   {
