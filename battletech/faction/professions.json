@@ -9,11 +9,20 @@
     ]
   },
   {
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "srm",
+    "entries": [
+      { "item": "srm_missile", "charges": 10 },
+      { "item": "srm_missile", "charges": 10 }
+    ]
+  },
+  {
     "type": "profession",
     "ident": "infantryman_bt",
     "name": "Infantryman",
     "description": "Jump right in, for some good ol' Battletech action.",
-    "points": 5,
+    "points": 3,
     "skills": [ { "level": 2, "name": "gun" }, { "level": 2, "name": "rifle" }, { "level": 2, "name": "stabbing" } ],
     "items": {
       "both": {
@@ -37,6 +46,38 @@
         ]
       },
       "male": [ "boxer_shorts", "fl_block" ],
+      "female": [ "sports_bra", "boxer_shorts" ]
+    }
+  },
+  {
+    "type": "profession",
+    "ident": "missileman_bt",
+    "name": "Missile Carrier",
+    "description": "This is the lad who carries missiles. Very nice missiles.",
+    "points": 5,
+    "skills": [ { "level": 2, "name": "gun" }, { "level": 2, "name": "launcher" }, { "level": 2, "name": "stabbing" } ],
+    "items": {
+      "both": {
+        "items": [
+          "pants_army",
+          "undershirt",
+          "jacket_army",
+          "helmet_army",
+          "mask_ski",
+          "gloves_liner",
+          "gloves_tactical",
+          "socks",
+          "boots_combat",
+          "molle_pack",
+          "molle_pack"
+        ],
+        "entries": [
+          { "item": "ear_plugs", "custom-flags": [ "no_auto_equip" ] },
+          { "item": "knife_combat", "container-item": "sheath" },
+          { "item": "srm_infantry", "ammo-item": "srm_missile", "charges": 20 }
+        ]
+      },
+      "male": [ "boxer_shorts", "srm_missile" ],
       "female": [ "sports_bra", "boxer_shorts" ]
     }
   }
