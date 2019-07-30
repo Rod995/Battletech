@@ -3,7 +3,7 @@
     "abstract": "base_srm",
     "type": "MONSTER",
     "name": "srm",
-    "default_faction": "human",
+    "default_faction": "player",
     "species": [ "ROBOT" ],
     "volume": "750 ml",
     "weight": 1000,
@@ -16,7 +16,7 @@
     "death_function": [ "EXPLODE" ],
     "death_drops": "srm_drops",
     "ranges": [ [ 0, 30, "DEFAULT" ] ],
-    "flags": [ "SEES", "FLIES", "NOHEAD", "ELECTRONIC", "NO_BREATHE", "INTERIOR_AMMO" ]
+    "flags": [ "SEES", "SWARM", "FLIES", "NOHEAD", "ELECTRONIC", "NO_BREATHE", "INTERIOR_AMMO" ]
   },
   {
     "id": "mon_srm",
@@ -42,7 +42,7 @@
         "gun_type": "internal_srm",
         "fake_skills": [ [ "gun", 10 ], [ "pistol", 10 ] ],
         "fake_dex": 14,
-        "range": 3,
+        "range": 2,
         "ranges": [ [ 0, 3, "BURST" ] ]
       }
     ],

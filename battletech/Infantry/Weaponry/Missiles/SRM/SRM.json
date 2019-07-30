@@ -49,7 +49,7 @@
     "volume": 35,
     "bashing": 12,
     "to_hit": -6,
-    "range": 30,
+    "range": 2,
     "dispersion": 100,
     "sight_dispersion": 60,
     "durability": 9,
