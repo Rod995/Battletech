@@ -1,5 +1,5 @@
 # Battletech
-Battletech Megamod for C:DDA. Buildings have had help from Chaosvolt.
+Battletech Megamod for C:DDA. Buildings have had """help""" from Chaosvolt.
 
 ## How do I add the mod to the Launcher?
 In your launcher folder, go to the data/mods.json file.
@@ -269,17 +269,38 @@ to the end of the list.
 | 'Thunderstroke' Gauss Rifle | :x: |
 | 'Thunderstroke II' Gauss Rifle | :x: |
 | Auto-Rifle | :x: |
-| Elephant Gun | :x: |
+| Elephant Gun | :heavy_check_mark: |
 
 | Ballistics-Shotguns | Status |
 | ------------ | ------ |
+| Auto-Shotgun | :x: |
+| Avenger CCW  | :x: |
+| Combat Shotgun | :x: |
+| Double-Barreled Shotgun | :x: |
+| Pump-Action Shotgun | :x: |
+| Ceres Arms Crowdbuster | :x: |
+| Buccaneer Gel Gun | :x: |
 
 | Ballistics-Support | Status |
 | ------------ | ------ |
+| Light Machine Gun  | :x: |
+| Portable Machine Gun | :x: |
+| Semi-Portable Machine Gun | :x: |
+| Semi-Portable Autocannon | :x: |
+| Support Machine Gun | :x: |
+| Bearhunter Super-Heavy Autocannon | :x: |
+| Heavy Mortar | :x: |
+| Light Mortar | :x: |
 | 'Firedrake' Support Needler | :heavy_check_mark: |
+| Grand Mauler Gauss Cannon | :x: |
+| Magshot Gauss Rifle | :x: |
+| Tsunami Heavy Gauss Rifle | :x: |
+| David Light Gauss Rifle | :x: |
+| King David Light Gauss Rifle | :x: |
+| Heavy Recoilless Rifle | :x: |
+| Medium Recoilless Rifle | :x: |
+| Light Recoilless Rifle | :x: |
 
-| Ballistics-Machine Guns | Status |
-| ------------ | ------ |
 
 | Energy-Pistol | Status |
 | ------------ | ------ |
@@ -299,6 +320,9 @@ to the end of the list.
 
 | Missile-Support | Status |
 | ------------ | ------ |
+| SRM Launcher | :heavy_check_mark: |
+| D-SRM Launcher | :heavy_check_mark: |
+| Light Two-shot SRM | :x: |
 
 | Misc-Support | Status |
 | ------------ | ------ |
@@ -312,15 +336,17 @@ to the end of the list.
 
 ### Infantry Misc
 
-```TBA```
+| Professions | Status |
+| ----------- | ------ |
+| Infantryman | :heavy_check_mark: |
+| Short Range Missile Carrier | :heavy_check_mark: |
+| Double Short Range Missile Carrier | :heavy_check_mark: |
 
 ## Tech
 
 | Tech | Status |
 | ---- | ------ |
 | Helm Memory Core | :x: |
-| Fusion Engine | :x: |
-| Mechanical Jump Booster | :x: |
 
 ## Alien Flora and Fauna
 ### Quick Notice
