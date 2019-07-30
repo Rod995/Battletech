@@ -8,7 +8,8 @@
     "allowed_locs": [ "field", "forest" ],
     "start_name": "Battletech Infantry",
     "professions": [
-      "infantryman_bt"
+      "infantryman_bt",
+      "missileman_bt"
     ]
   }
 ]
