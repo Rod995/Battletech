@@ -3,7 +3,7 @@
     "abstract": "base_srm",
     "type": "MONSTER",
     "name": "srm",
-    "default_faction": "player",
+    "default_faction": "factionless",
     "species": [ "ROBOT" ],
     "volume": "750 ml",
     "weight": 1000,
