@@ -19,8 +19,7 @@
       "power": 100,
       "distance_factor": 0.9,
       "fire": true,
-      "shrapnel": 200,
-      "shrapnel": { "casing_mass": 200, "fragment_mass": 0.5, "recovery": 10, "drop": "nail" }
+      "shrapnel": 200
     },
     "effects": [ "COOKOFF", "SHOT", "NEVER_MISFIRES", "BEANBAG", "CUSTOM_EXPLOSION" ]
   },
@@ -44,8 +43,7 @@
       "power": 100,
       "distance_factor": 0.9,
       "fire": true,
-      "shrapnel": 200,
-      "shrapnel": { "casing_mass": 200, "fragment_mass": 0.5, "recovery": 10, "drop": "nail" }
+      "shrapnel": 200
     },
     "effects": [ "COOKOFF", "SHOT", "NEVER_MISFIRES", "BEANBAG", "CUSTOM_EXPLOSION" ]
   },
@@ -69,8 +67,7 @@
       "power": 100,
       "distance_factor": 0.9,
       "fire": true,
-      "shrapnel": 200,
-      "shrapnel": { "casing_mass": 200, "fragment_mass": 0.5, "recovery": 10, "drop": "nail" }
+      "shrapnel": 200
     },
     "effects": [ "COOKOFF", "SHOT", "NEVER_MISFIRES", "BEANBAG", "CUSTOM_EXPLOSION" ]
   },
@@ -94,8 +91,7 @@
       "power": 100,
       "distance_factor": 0.9,
       "fire": true,
-      "shrapnel": 200,
-      "shrapnel": { "casing_mass": 200, "fragment_mass": 0.5, "recovery": 10, "drop": "nail" }
+      "shrapnel": 200
     },
     "effects": [ "COOKOFF", "SHOT", "NEVER_MISFIRES", "BEANBAG", "CUSTOM_EXPLOSION" ]
   }
