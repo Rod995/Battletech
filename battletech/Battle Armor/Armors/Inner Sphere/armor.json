@@ -1,0 +1,28 @@
+[
+  {
+    "id": "tornado",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": "Tornado",
+    "description": "The P12 Tornado is a Power Armor (Light) suit, created by ComStar in the late twenty-ninth century to equip their special forces units with added protection.",
+    "weight": 400039,
+    "volume": 80,
+    "price": 7000000,
+    "to_hit": 1,
+    "bashing": 1,
+    "material": [ "steel" ],
+    "symbol": "[",
+    "color": "light_gray",
+    "covers": [ "TORSO", "ARMS", "HANDS", "LEGS", "FEET" ],
+    "coverage": 100,
+    "encumbrance": 30,
+    "storage": 10,
+    "warmth": 90,
+    "power_armor": true,
+    "material_thickness": 11,
+    "environmental_protection": 10,
+    "artifact_data": { "effects_worn": [ "AEP_STR_UP" ] },
+    "use_action": { "type": "ups_based_armor", "activate_msg": "Your power armor engages." },
+    "flags": [ "WATERPROOF", "STURDY", "ELECTRIC_IMMUNE" ]
+  }
+]
