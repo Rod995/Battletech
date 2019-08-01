@@ -71,6 +71,7 @@
     "weight": 2000,
     "ammo_type": "battery",
     "count": 1,
+    "power_armor": true,
     "use_action": {
         "type": "transform",
         "target": "h_satchel",
