@@ -49,8 +49,7 @@
     "ammo_type": "battery",
     "count": 1,
     "encumbrance": 5,
-    "covers": [ "TORSO" ],
-    "flags": [ "BELTED", "OVERSIZE","NO_UNLOAD", "RECHARGE" ],
+    "flags": [ "NO_UNLOAD", "RECHARGE" ],
     "use_action": {
       "type": "transform",
       "target": "h_satchel_ba",
@@ -58,17 +57,17 @@
       "msg": "You adjust the satchel to work with Battle Armor."
     },
     "ammo": "battery",
-    "max_charges": 1000
+    "max_charges": 30000
   },
   {
     "type": "TOOL_ARMOR",
     "id": "h_satchel_ba",
     "category": "spare_parts",
     "price": 500,
-    "name": "Satchel Battery",
+    "name": "Satchel Battery BA",
     "name_plural": "Satchel Batteries",
     "symbol": "+",
-    "color": "yellow",
+    "color": "red",
     "description": "A Satchel Battery provides a greater charge than standard packs, but is the weight and size of a full canteen, requiring it to be attached to a belt or combat webbing.",
     "material": "iron",
     "volume": 3,
@@ -77,8 +76,7 @@
     "count": 1,
     "power_armor": true,
     "encumbrance": 5,
-    "covers": [ "TORSO" ],
-    "flags": [ "BELTED", "OVERSIZE","NO_UNLOAD", "RECHARGE" ],
+    "flags": [ "NO_UNLOAD", "RECHARGE" ],
     "use_action": {
       "type": "transform",
       "target": "h_satchel",
@@ -86,6 +84,6 @@
       "msg": "You adjust the satchel to work with standard wear."
     },
     "ammo": "battery",
-    "max_charges": 1000
+    "max_charges": 30000
   }
 ]
