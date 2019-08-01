@@ -50,7 +50,7 @@
     "count": 1,
     "encumbrance": 5,
     "covers": [ "TORSO" ],
-    "flags": [ "BELTED", "OVERSIZE" ],
+    "flags": [ "BELTED", "OVERSIZE","NO_UNLOAD", "RECHARGE" ],
     "use_action": {
       "type": "transform",
       "target": "h_satchel_ba",
@@ -58,8 +58,7 @@
       "msg": "You adjust the satchel to work with Battle Armor."
     },
     "ammo": "battery",
-    "max_charges": 1000,
-    "flags": [ "NO_UNLOAD", "RECHARGE" ]
+    "max_charges": 1000
   },
   {
     "type": "TOOL_ARMOR",
@@ -79,7 +78,7 @@
     "power_armor": true,
     "encumbrance": 5,
     "covers": [ "TORSO" ],
-    "flags": [ "BELTED", "OVERSIZE" ],
+    "flags": [ "BELTED", "OVERSIZE","NO_UNLOAD", "RECHARGE" ],
     "use_action": {
       "type": "transform",
       "target": "h_satchel",
@@ -87,7 +86,6 @@
       "msg": "You adjust the satchel to work with standard wear."
     },
     "ammo": "battery",
-    "max_charges": 1000,
-    "flags": [ "NO_UNLOAD", "RECHARGE" ]
+    "max_charges": 1000
   }
 ]
