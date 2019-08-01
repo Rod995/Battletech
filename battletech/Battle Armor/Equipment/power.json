@@ -49,7 +49,7 @@
     "ammo_type": "battery",
     "count": 1,
     "encumbrance": 5,
-    "flags": [ "NO_UNLOAD", "RECHARGE" ],
+    "flags": [ "NO_UNLOAD", "RECHARGE", "UPS" ],
     "use_action": {
       "type": "transform",
       "target": "h_satchel_ba",
@@ -76,7 +76,7 @@
     "count": 1,
     "power_armor": true,
     "encumbrance": 5,
-    "flags": [ "NO_UNLOAD", "RECHARGE" ],
+    "flags": [ "NO_UNLOAD", "RECHARGE", "UPS" ],
     "use_action": {
       "type": "transform",
       "target": "h_satchel",
