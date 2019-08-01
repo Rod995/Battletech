@@ -34,7 +34,7 @@
     "fuel": { "energy": 232 }
   },
   {
-    "type": "AMMO",
+    "type": "TOOL_ARMOR",
     "id": "h_satchel",
     "category": "spare_parts",
     "price": 500,
@@ -48,16 +48,19 @@
     "weight": 2000,
     "ammo_type": "battery",
     "count": 1,
+    "encumbrance": 5,
+    "covers": [ "TORSO" ],
+    "flags": [ "BELTED", "OVERSIZE" ],
     "use_action": {
-        "type": "transform",
-        "target": "h_satchel_ba",
-        "active": true,
-        "msg": "You adjust the satchel to work with Battle Armor."
+      "type": "transform",
+      "target": "h_satchel_ba",
+      "active": true,
+      "msg": "You adjust the satchel to work with Battle Armor."
     },
     "fuel": { "energy": 30000 }
   },
   {
-    "type": "AMMO",
+    "type": "TOOL_ARMOR",
     "id": "h_satchel_ba",
     "category": "spare_parts",
     "price": 500,
@@ -72,11 +75,14 @@
     "ammo_type": "battery",
     "count": 1,
     "power_armor": true,
+    "encumbrance": 5,
+    "covers": [ "TORSO" ],
+    "flags": [ "BELTED", "OVERSIZE" ],
     "use_action": {
-        "type": "transform",
-        "target": "h_satchel",
-        "active": true,
-        "msg": "You adjust the satchel to work with standard wear."
+      "type": "transform",
+      "target": "h_satchel",
+      "active": true,
+      "msg": "You adjust the satchel to work with standard wear."
     },
     "fuel": { "energy": 30000 }
   }
