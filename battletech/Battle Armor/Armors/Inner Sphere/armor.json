@@ -8,7 +8,7 @@
     "weight": 100039,
     "volume": 80,
     "price": 7000000,
-    "to_hit": 1,
+    "to_hit": -1,
     "bashing": 1,
     "material": [ "steel" ],
     "symbol": "[",
