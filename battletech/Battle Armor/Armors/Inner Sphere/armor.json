@@ -20,10 +20,12 @@
     "storage": 8,
     "warmth": 90,
     "power_armor": true,
+    "ammo": "battery",
+    "max_charges": 30000,
     "material_thickness": 11,
     "environmental_protection": 10,
     "artifact_data": { "effects_worn": [ "AEP_STR_UP", "AEP_STR_UP", "AEP_STR_UP", "AEP_STR_UP" ] },
     "use_action": { "type": "ups_based_armor", "activate_msg": "Your power armor engages." },
-    "flags": [ "WATERPROOF", "STURDY", "ELECTRIC_IMMUNE" ]
+    "flags": [ "WATERPROOF", "STURDY", "ELECTRIC_IMMUNE", "NO_UNLOAD", "RECHARGE", "UPS" ]
   }
 ]
