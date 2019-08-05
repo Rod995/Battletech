@@ -21,7 +21,7 @@
     "warmth": 90,
     "power_armor": true,
     "ammo": "battery",
-    "max_charges": 30000,
+    "max_charges": 100000,
     "material_thickness": 11,
     "environmental_protection": 10,
     "artifact_data": { "effects_worn": [ "AEP_STR_UP", "AEP_STR_UP", "AEP_STR_UP", "AEP_STR_UP" ] },
