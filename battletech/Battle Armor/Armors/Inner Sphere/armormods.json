@@ -1,7 +1,6 @@
 [
   {
     "type": "gunmod",
-    "location": "mount",
     "id": "mwm",
     "name": "Modular Weapon Mount",
     "name_plural": "MWMs",
