@@ -25,15 +25,16 @@
     "max_charges": 100000,
     "material_thickness": 11,
     "environmental_protection": 10,
+    "gun_data": { "built_in_mods": [ "mwm" ] },
     "use_action": {
-    	"type": "transform",
-    	"target": "tornado_on", 
-    	"active": true,
-    	"msg": "You activate the armor.",
-    	"need_charges": 1,
-    	"need_charges_msg": "The armor is depleted.", 
-    	"need_worn": true
-},
+      "type": "transform",
+      "target": "tornado_on",
+      "active": true,
+      "msg": "You activate the armor.",
+      "need_charges": 1,
+      "need_charges_msg": "The armor is depleted.",
+      "need_worn": true
+    },
     "flags": [ "WATERPROOF", "STURDY", "ELECTRIC_IMMUNE", "NO_UNLOAD", "RECHARGE", "UPS" ]
   },
   {
@@ -63,12 +64,8 @@
     "material_thickness": 11,
     "environmental_protection": 10,
     "artifact_data": { "effects_worn": [ "AEP_STR_UP", "AEP_STR_UP", "AEP_STR_UP", "AEP_STR_UP" ] },
-    "use_action": {
-    	"type": "transform",
-    	"target": "tornado", 
-    	"active": false,
-    	"msg": "You deactivate the armor."
-},
+    "use_action": { "type": "transform", "target": "tornado", "active": false, "msg": "You deactivate the armor." },
     "flags": [ "WATERPROOF", "STURDY", "ELECTRIC_IMMUNE", "NO_UNLOAD", "RECHARGE", "UPS" ]
   }
 ]
+
