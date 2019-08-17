@@ -121,7 +121,7 @@
     "ident": "ba_tornadostart",
     "name": "Tornado User",
     "description": "Mini-mech lad.",
-    "points": 8,
+    "points": 6,
     "skills": [ { "level": 2, "name": "gun" }, { "level": 2, "name": "rifle" }, { "level": 2, "name": "stabbing" } ],
     "items": {
       "both": {
