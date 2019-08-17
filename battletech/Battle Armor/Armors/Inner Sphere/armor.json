@@ -5,7 +5,7 @@
     "category": "armor",
     "name": "P12 Tornado",
     "description": "The P12 Tornado is a Power Armor (Light) suit, created by ComStar in the late twenty-ninth century to equip their special forces units with added protection.",
-    "weight": 100039,
+    "weight": 100000,
     "volume": 80,
     "looks_like": "power_armor_basic",
     "price": 7000000,
@@ -25,7 +25,7 @@
     "max_charges": 100000,
     "material_thickness": 11,
     "environmental_protection": 10,
-    "gun_data": { "built_in_mods": [ "mwm" ] },
+    "gun_data": { "built_in_mods": [ "aux_flamer_ba" ] },
     "use_action": {
       "type": "transform",
       "target": "tornado_on",
@@ -63,6 +63,7 @@
     "max_charges": 100000,
     "material_thickness": 11,
     "environmental_protection": 10,
+    "gun_data": { "built_in_mods": [ "aux_flamer_ba" ] },
     "artifact_data": { "effects_worn": [ "AEP_STR_UP", "AEP_STR_UP", "AEP_STR_UP", "AEP_STR_UP" ] },
     "use_action": { "type": "transform", "target": "tornado", "active": false, "msg": "You deactivate the armor." },
     "flags": [ "WATERPROOF", "STURDY", "ELECTRIC_IMMUNE", "NO_UNLOAD", "RECHARGE", "UPS" ]
