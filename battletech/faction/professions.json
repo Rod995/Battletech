@@ -126,13 +126,8 @@
     "items": {
       "both": {
         "items": [
-          "pants_army",
-          "undershirt",
-          "jacket_army",
           "helmet_army",
           "mask_ski",
-          "gloves_liner",
-          "gloves_tactical",
           "tornado"
         ],
         "entries": [
