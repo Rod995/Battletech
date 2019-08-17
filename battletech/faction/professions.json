@@ -136,8 +136,8 @@
           { "item": "rifle_needler_smg", "ammo-item": "fl_block", "charges": 30 }
         ]
       },
-      "male": [ "boxer_shorts", "fl_block" ],
-      "female": [ "sports_bra", "boxer_shorts" ]
+      "male": [ "fl_block" ],
+      "female": [ "fl_block" ]
     }
   }
 ]
