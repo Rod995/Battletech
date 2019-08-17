@@ -7,7 +7,7 @@
     "symbol": "+",
     "description": "The Modular Weapon Mount is a piece of battle armor equipment that allows the operator to swap weapons based on mission parameters.",
     "weight": 10000,
-    "volume": 6,
+    "volume": 0,
     "price": 2790000,
     "//": "10% of the price of the Tornado, converted to USD.",
     "gun_data": { "valid_mod_locations": [ [ "mount", 1 ] ] },
@@ -15,6 +15,27 @@
     "mod_targets": "TOOL_ARMOR",
     "to_hit": -2,
     "material": [ "steel" ],
+    "min_skills": [ [ "weapon", 2 ], [ "launcher", 1 ] ],
     "color": "light_gray"
-  }
+  },
+  {
+    "id": "aux_flamer_ba",
+    "type": "GUNMOD",
+    "name": "MWM Flamer",
+    "description": "made to test mvm slot",
+    "weight": 1820,
+    "volume": 4,
+    "price": 85000,
+    "material": [ "steel" ],
+    "symbol": "|",
+    "color": "light_red",
+    "location": "mount",
+    "mod_targets": "TOOL_ARMOR",
+    "gun_data": { "ammo": "flammable", "skill": "launcher", "dispersion": 300, "durability": 10 },
+    "magazine_well": 1,
+    "magazines": [ [ "flammable", [ "aux_pressurized_tank" ] ] ],
+    "dispersion_modifier": 30,
+    "min_skills": [ [ "weapon", 2 ], [ "launcher", 1 ] ],
+    "flags": [ "FIRE_100" ]
+  },
 ]
