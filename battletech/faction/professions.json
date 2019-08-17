@@ -115,5 +115,34 @@
       "male": [ "boxer_shorts", "srm_missile" ],
       "female": [ "sports_bra", "boxer_shorts" ]
     }
+  },
+  {
+    "type": "profession",
+    "ident": "ba_tornadostart",
+    "name": "Tornado User",
+    "description": "Mini-mech lad.",
+    "points": 8,
+    "skills": [ { "level": 2, "name": "gun" }, { "level": 2, "name": "rifle" }, { "level": 2, "name": "stabbing" } ],
+    "items": {
+      "both": {
+        "items": [
+          "pants_army",
+          "undershirt",
+          "jacket_army",
+          "helmet_army",
+          "mask_ski",
+          "gloves_liner",
+          "gloves_tactical",
+          "tornado"
+        ],
+        "entries": [
+          { "item": "ear_plugs", "custom-flags": [ "no_auto_equip" ] },
+          { "item": "fl_block", "charges": 120 },
+          { "item": "rifle_needler_smg", "ammo-item": "fl_block", "charges": 30 }
+        ]
+      },
+      "male": [ "boxer_shorts", "fl_block" ],
+      "female": [ "sports_bra", "boxer_shorts" ]
+    }
   }
 ]
