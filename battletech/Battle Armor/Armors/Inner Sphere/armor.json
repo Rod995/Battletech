@@ -20,7 +20,6 @@
     "storage": 8,
     "warmth": 45,
     "power_armor": true,
-    "ammo": "battery",
     "max_charges": 100000,
     "material_thickness": 11,
     "environmental_protection": 10,
