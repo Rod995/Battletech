@@ -24,6 +24,20 @@
     "max_charges": 100000,
     "material_thickness": 11,
     "environmental_protection": 10,
+    "magazines": [
+      [
+        "battery",
+        [
+          "light_battery_cell",
+          "light_plus_battery_cell",
+          "light_minus_battery_cell",
+          "light_atomic_battery_cell",
+          "light_minus_atomic_battery_cell",
+          "light_minus_disposable_cell",
+          "light_disposable_cell"
+        ]
+      ]
+    ],
     "gun_data": { "valid_mod_locations": [ [ "mount", 1 ] ] },
     "use_action": {
       "type": "transform",
@@ -61,10 +75,23 @@
     "max_charges": 100000,
     "material_thickness": 11,
     "environmental_protection": 10,
+    "magazines": [
+      [
+        "battery",
+        [
+          "light_battery_cell",
+          "light_plus_battery_cell",
+          "light_minus_battery_cell",
+          "light_atomic_battery_cell",
+          "light_minus_atomic_battery_cell",
+          "light_minus_disposable_cell",
+          "light_disposable_cell"
+        ]
+      ]
+    ],
     "gun_data": { "valid_mod_locations": [ [ "mount", 1 ] ] },
     "artifact_data": { "effects_worn": [ "AEP_STR_UP", "AEP_STR_UP", "AEP_STR_UP", "AEP_STR_UP" ] },
     "use_action": { "type": "transform", "target": "tornado", "active": false, "msg": "You deactivate the armor." },
     "flags": [ "WATERPROOF", "STURDY", "POWERED", "ELECTRIC_IMMUNE", "NO_UNLOAD", "RECHARGE" ]
   }
 ]
-
