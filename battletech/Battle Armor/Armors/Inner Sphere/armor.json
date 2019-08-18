@@ -21,7 +21,6 @@
     "warmth": 45,
     "power_armor": true,
     "max_charges": 100000,
-    "initial_charges": 1,
     "material_thickness": 11,
     "environmental_protection": 10,
     "gun_data": {
@@ -75,7 +74,6 @@
     "storage": 8,
     "warmth": 90,
     "power_armor": true,
-    "ammo": "battery",
     "max_charges": 100000,
     "material_thickness": 11,
     "environmental_protection": 10,
