@@ -21,10 +21,10 @@
     "warmth": 45,
     "power_armor": true,
     "ammo": "battery",
-    "ammo_type" : "battery",
     "max_charges": 100000,
     "material_thickness": 11,
     "environmental_protection": 10,
+    "ammo_type": [ "battery" ],
     "magazines": [
       [
         "battery",
