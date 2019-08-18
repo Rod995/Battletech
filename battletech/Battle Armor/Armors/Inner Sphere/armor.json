@@ -39,7 +39,8 @@
             "light_disposable_cell"
           ]
         ]
-      ]
+      ],
+      "clip_size": 100
     },
     "use_action": {
       "type": "transform",
