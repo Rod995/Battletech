@@ -79,7 +79,7 @@
     "material_thickness": 11,
     "environmental_protection": 10,
     "ammo": "battery",
-    "gunmod_data": {
+    "gun_data": {
       "valid_mod_locations": [ [ "mount", 1 ] ]
           },
     "magazines": [
