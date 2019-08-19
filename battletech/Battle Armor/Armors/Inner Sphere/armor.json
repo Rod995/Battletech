@@ -52,7 +52,7 @@
       "need_worn": true
     },
     "magazine_well": 1,
-    "flags": [ "WATERPROOF", "STURDY", "POWERED", "ELECTRIC_IMMUNE", "NO_UNLOAD", "RECHARGE" ]
+    "flags": [ "WATERPROOF", "STURDY", "POWERED", "ELECTRIC_IMMUNE", "NO_UNLOAD" ]
   },
   {
     "id": "tornado_on",
@@ -99,6 +99,6 @@
     },
     "artifact_data": { "effects_worn": [ "AEP_STR_UP", "AEP_STR_UP", "AEP_STR_UP", "AEP_STR_UP" ] },
     "use_action": { "type": "transform", "target": "tornado", "active": false, "msg": "You deactivate the armor." },
-    "flags": [ "WATERPROOF", "STURDY", "POWERED", "ELECTRIC_IMMUNE", "NO_UNLOAD", "RECHARGE" ]
+    "flags": [ "WATERPROOF", "STURDY", "POWERED", "ELECTRIC_IMMUNE", "NO_UNLOAD" ]
   }
 ]
