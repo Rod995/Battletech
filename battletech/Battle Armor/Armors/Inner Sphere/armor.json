@@ -69,7 +69,6 @@
     "material": [ "steel" ],
     "symbol": "[",
     "color": "light_gray",
-    "ammo": "battery",
     "armor_data": {
       "covers": [ "TORSO", "ARMS", "LEGS", "FEET" ],
       "coverage": 100,
