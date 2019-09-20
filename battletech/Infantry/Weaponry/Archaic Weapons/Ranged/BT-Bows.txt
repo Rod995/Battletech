@@ -1,0 +1,29 @@
+[
+	{
+	    "id": "bt_shortbow",
+	    "type": "GUN",
+	    "symbol": "(",
+	    "color": "yellow",
+	    "name": "shortbow",
+	    "description": "gerald",
+	    "price": 16000,
+	    "material": "wood",
+	    "flags": [ "FIRE_TWOHAND", "STR_DRAW", "RELOAD_AND_SHOOT", "PRIMITIVE_RANGED_WEAPON", "BELTED", "WATER_FRIENDLY" ],
+	    "skill": "archery",
+	    "min_strength": 4,
+	    "ammo": "arrow",
+	    "weight": "800 g",
+	    "volume": "1500 ml",
+	    "bashing": 6,
+	    "armor_data": { "covers": [ "TORSO" ], "coverage": 5, "material_thickness": 1, "encumbrance": 14 },
+	    "reload_noise_volume": 2,
+	    "loudness": 6,
+	    "ranged_damage": 7,
+	    "range": 13,
+	    "dispersion": 150,
+	    "durability": 6,
+	    "clip_size": 1,
+	    "reload": 50,
+	    "valid_mod_locations": [ [ "dampening", 1 ] ]
+	  }
+]
