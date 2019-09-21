@@ -14,6 +14,7 @@
     "material": [ "steel" ],
     "symbol": "[",
     "color": "light_gray",
+    "max_charges": 30000,
     "armor_data": {
       "covers": [ "TORSO", "ARMS", "LEGS", "FEET" ],
       "coverage": 100,
@@ -33,7 +34,7 @@
       "need_charges_msg": "The armor is depleted.",
       "need_worn": true
     },
-    "flags": [ "WATERPROOF", "STURDY", "ELECTRIC_IMMUNE", "NO_UNLOAD" ]
+    "flags": [ "WATERPROOF", "STURDY", "ELECTRIC_IMMUNE", "NO_UNLOAD", "RECHARGE" ]
   },
   {
     "id": "tornado_on",
@@ -50,6 +51,7 @@
     "material": [ "steel" ],
     "symbol": "[",
     "color": "light_gray",
+    "max_charges": 30000,
     "armor_data": {
       "covers": [ "TORSO", "ARMS", "LEGS", "FEET" ],
       "coverage": 100,
@@ -62,6 +64,6 @@
     },
     "artifact_data": { "effects_worn": [ "AEP_STR_UP", "AEP_STR_UP", "AEP_STR_UP", "AEP_STR_UP" ] },
     "use_action": { "type": "transform", "target": "tornado", "active": false, "msg": "You deactivate the armor." },
-    "flags": [ "WATERPROOF", "STURDY", "ELECTRIC_IMMUNE", "NO_UNLOAD" ]
+    "flags": [ "WATERPROOF", "STURDY", "ELECTRIC_IMMUNE", "NO_UNLOAD", "RECHARGE" ]
   }
 ]
