@@ -15,6 +15,20 @@
     "symbol": "[",
     "color": "light_gray",
     "max_charges": 30000,
+    "magazines": [
+      [
+        "battery",
+        [
+          "light_battery_cell",
+          "light_plus_battery_cell",
+          "light_minus_battery_cell",
+          "light_atomic_battery_cell",
+          "light_minus_atomic_battery_cell",
+          "light_minus_disposable_cell",
+          "light_disposable_cell"
+        ]
+      ]
+    ],
     "armor_data": {
       "covers": [ "TORSO", "ARMS", "LEGS", "FEET" ],
       "coverage": 100,
@@ -52,6 +66,20 @@
     "symbol": "[",
     "color": "light_gray",
     "max_charges": 30000,
+    "magazines": [
+      [
+        "battery",
+        [
+          "light_battery_cell",
+          "light_plus_battery_cell",
+          "light_minus_battery_cell",
+          "light_atomic_battery_cell",
+          "light_minus_atomic_battery_cell",
+          "light_minus_disposable_cell",
+          "light_disposable_cell"
+        ]
+      ]
+    ],
     "armor_data": {
       "covers": [ "TORSO", "ARMS", "LEGS", "FEET" ],
       "coverage": 100,
