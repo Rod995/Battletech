@@ -1,7 +1,7 @@
 [
   {
     "id": "tornado",
-    "type": "TOOL",
+    "type": "TOOL_ARMOR",
     "category": "armor",
     "name": "P12 Tornado",
     "description": "The P12 Tornado is a Power Armor (Light) suit, created by ComStar in the late twenty-ninth century to equip their special forces units with added protection.",
@@ -52,7 +52,7 @@
   },
   {
     "id": "tornado_on",
-    "type": "TOOL",
+    "type": "TOOL_ARMOR",
     "category": "armor",
     "name": "P12 Tornado",
     "description": "The P12 Tornado is a Power Armor (Light) suit, created by ComStar in the late twenty-ninth century to equip their special forces units with added protection.",
