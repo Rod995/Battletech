@@ -14,7 +14,7 @@
 > `19 * 18 = 342`
 > 
 > Thus the RAC/2 has a range of 342 tiles.
-* "For infantry ranged, maybe they should be adjusted, like a lot?""
+* "For infantry ranged, maybe they should be adjusted, like a lot?"
 * You heard the man! 
 * `Rodicus Coroticus the VIthToday at 6:58 PM
 smh
