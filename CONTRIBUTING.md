@@ -24,4 +24,5 @@ I give up.
 * Dispersion is based on type and range.
 * Could always convert infantry damage to mech damage with 3:0.02.
 * And with that, I can take the damage from the revolver in BT and base it from there?
-* Bow density is `0.2265555`.
+* Bow density is `226.667 g/L`.
+* Crossbow density is `1818.67 g/L`.
