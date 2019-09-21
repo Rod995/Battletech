@@ -48,7 +48,7 @@
       "need_charges_msg": "The armor is depleted.",
       "need_worn": true
     },
-    "flags": [ "WATERPROOF", "STURDY", "ELECTRIC_IMMUNE", "NO_UNLOAD", "RECHARGE", "POWERED" ]
+    "flags": [ "WATERPROOF", "STURDY", "ELECTRIC_IMMUNE", "RECHARGE", "POWERED" ]
   },
   {
     "id": "tornado_on",
@@ -93,6 +93,6 @@
     },
     "artifact_data": { "effects_worn": [ "AEP_STR_UP", "AEP_STR_UP", "AEP_STR_UP", "AEP_STR_UP" ] },
     "use_action": { "type": "transform", "target": "tornado", "active": false, "msg": "You deactivate the armor." },
-    "flags": [ "WATERPROOF", "STURDY", "ELECTRIC_IMMUNE", "NO_UNLOAD", "RECHARGE", "POWERED" ]
+    "flags": [ "WATERPROOF", "STURDY", "ELECTRIC_IMMUNE", "RECHARGE", "POWERED" ]
   }
 ]
