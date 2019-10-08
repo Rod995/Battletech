@@ -1,3 +1,8 @@
+Cataclysm: Dark Days Ahead JSON Web Linting Tool
+This is a tool to help modders and editors of the open source game Cataclysm: Dark Days Ahead write JSON in the game's expected format.
+
+Paste some JSON into the field below and click "Lint" to run an autoformatter against it.
+
 [
   {
     "id": "bt_solid_offroad_wheel",
@@ -20,7 +25,7 @@
     "rolling_resistance": 0.6,
     "wheel_type": "rigid",
     "contact_area": 360,
-    "damage_reduction": { "all": 60, "cut": 30, "stab": 16 }
+    "damage_reduction": { "all": 60, "cut": 30, "stab": 16 },
     "flags": [ "WHEEL", "NEEDS_JACKING", "STABLE", "TOOL_WRENCH", "STEERABLE", "NEEDS_WHEEL_MOUNT_HEAVY" ]
   },
   {
@@ -41,3 +46,4 @@
     "width": 20
   }
 ]
+
