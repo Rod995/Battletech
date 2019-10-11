@@ -15,7 +15,8 @@
           "controls",
           "tank",
           "reclining_seat",
-          "wheel_steerable",
+          "wheel_mount_medium_steerable",
+          "wheel_wide",
           "engine_v12",
           "primitive_armor_ton"
         ]
