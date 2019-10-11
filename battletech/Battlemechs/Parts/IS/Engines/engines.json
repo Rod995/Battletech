@@ -58,6 +58,6 @@
     "material": [ "steel", "plastic" ],
     "volume": 1000,
     "category": "veh_parts",
-    "price": 20000000000
+    "price": 2000000
   }
 ]
