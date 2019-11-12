@@ -10,10 +10,9 @@
     "noise_factor": 2,
     "m2c": 99,
     "power": 11250000,
-    "fuel_type": "h_cell",
     "symbol": "H",
     "color": "yellow",
-    "breaks_into": [ { "item": "scrap", "count": [ 0, 5 ] }, { "item": "h_cell", "count": [ 0, 1 ] } ],
+    "breaks_into": [ { "item": "scrap", "count": [ 0, 5 ] } ],
     "broken_symbol": "!",
     "durability": 100,
     "broken_color": "red",
@@ -25,7 +24,6 @@
       "DIFFICULTY_REMOVE",
       "OBSTACLE",
       "OPAQUE",
-      "REACTOR",
       "PERPETUAL"
     ]
   },
