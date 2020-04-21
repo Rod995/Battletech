@@ -10,7 +10,7 @@
     "symbol": ",",
     "material": [ "paper" ],
     "volume": 0,
-    "price": 10.9
+    "price": 1090
   },{
     "type": "GENERIC",
     "id": "k_bill",
@@ -22,6 +22,6 @@
     "symbol": ",",
     "material": [ "paper" ],
     "volume": 0,
-    "price": 8.72
+    "price": 8720
   }
 ]

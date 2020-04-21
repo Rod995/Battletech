@@ -5,7 +5,7 @@
     "description": "Mechs are cool.",
     "ident": "battletech",
     "points": 0,
-    "allowed_locs": [ "field", "forest" ],
+    "allowed_locs": [ "sloc_field", "sloc_forest" ],
     "start_name": "Battletech Infantry",
     "professions": [
       "infantryman_bt",

@@ -1,0 +1,20 @@
+[
+	{
+		"id": "bt_wakizashi",
+		"type": "TOOL",
+		"category": "weapons",
+		"symbol": "|",
+		"color": "light_gray",
+		"name": "Wakizashi [BT]",
+		"description": "Weebs in the year 30xx use these, yay.",
+		"price": 175500,
+		"to_hit": 1,
+		"material": "steel",
+		"weight": 1000,
+		"volume": "1700 ml",
+		"cutting": 25,
+		"techniques": [ "RAPID", "WBLOCK_2" ],
+		"qualities": [ [ "CUT", 1 ], [ "BUTCHER", 13 ] ],
+    	"flags": [ "DURABLE_MELEE", "SHEATH_SWORD" ]
+	}
+]
