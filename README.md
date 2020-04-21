@@ -11,6 +11,7 @@ Add
     "name": "Battletech",
     "author": "Rod995",
     "description": "ayy lmao mechs",
+    "category": "content",
     "size": 12160,
     "url": "https://github.com/Rod995/Battletech/archive/master.zip",
     "homepage": "https://github.com/Rod995/Battletech"
