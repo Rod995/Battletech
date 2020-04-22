@@ -33,13 +33,13 @@
       "need_charges_msg": "The armor is depleted.",
       "need_worn": true
     },
-    "flags": [ "WATERPROOF", "STURDY", "ELECTRIC_IMMUNE", "RECHARGE", "POWERED", "UPS" ]
+    "flags": [ "WATERPROOF", "STURDY", "ELECTRIC_IMMUNE", "RECHARGE", "POWERED" ]
   },
   {
     "id": "tornado_on",
     "type": "TOOL_ARMOR",
     "category": "armor",
-    "name": "P12 Tornado",
+    "name": "P12 Tornado (Active)",
     "description": "The P12 Tornado is a Power Armor (Light) suit, created by ComStar in the late twenty-ninth century to equip their special forces units with added protection.",
     "weight": 50000,
     "volume": 80,
@@ -50,7 +50,7 @@
     "material": [ "steel" ],
     "symbol": "[",
     "color": "light_gray",
-    "turns_per_charge": 1,
+    "power_draw": 200,
     "max_charges": 30000,
     "covers": [ "TORSO", "ARMS", "LEGS", "FEET" ],
     "coverage": 100,
@@ -63,6 +63,6 @@
     "ammo": [ "battery" ], 
     "artifact_data": { "effects_worn": [ "AEP_STR_UP", "AEP_STR_UP", "AEP_STR_UP", "AEP_STR_UP" ] },
     "use_action": { "type": "transform", "target": "tornado", "active": false, "msg": "You deactivate the armor." },
-    "flags": [ "WATERPROOF", "STURDY", "ELECTRIC_IMMUNE", "RECHARGE", "POWERED", "UPS" ]
+    "flags": [ "WATERPROOF", "STURDY", "ELECTRIC_IMMUNE", "RECHARGE", "POWERED" ]
   }
 ]
