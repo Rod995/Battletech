@@ -2,21 +2,27 @@
   {
     "id": "aux_flamer_ba",
     "type": "GUNMOD",
-    "name": "MWM Flamer",
+    "name": { "str": "MWM Flamer" },
     "description": "made to test mvm slot",
-    "weight": 1820,
-    "volume": 4,
+    "weight": "1820 g",
+    "volume": "4 L",
     "price": 85000,
     "material": [ "steel" ],
     "symbol": "|",
     "color": "light_red",
-    "location": "mount",
-    "mod_targets": "TOOL_ARMOR",
-    "gun_data": { "ammo": "flammable", "skill": "launcher", "dispersion": 300, "durability": 10 },
+    "mod_targets": [ "tornado_gun_test" ],
+    "location": "weapon mount",
+    "gun_data": { 
+      "skill": "launcher",
+      "range": 30,
+      "ranged_damage": { "damage_type": "heat", "amount": 12 },
+      "dispersion": 300, 
+      "durability": 10,
+      "ammo": "flammable"
+    },
     "magazine_well": 1,
     "magazines": [ [ "flammable", [ "aux_pressurized_tank" ] ] ],
     "dispersion_modifier": 30,
-    "min_skills": [ [ "weapon", 2 ], [ "launcher", 1 ] ],
-    "flags": [ "FIRE_100" ]
+    "flags": [ "FIRE_100", "POWERARMOR_COMPATIBLE" ]
   }
 ]
