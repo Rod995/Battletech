@@ -83,7 +83,7 @@
     "durability": 222,
     "damage_modifier": 80,
     "location": "on_roof",
-    "description": ".",
+    "description": "it's an autocannon that fires fast",
     "flags": [ "TURRET", "TOOL_NONE" ]
   }
 ]
